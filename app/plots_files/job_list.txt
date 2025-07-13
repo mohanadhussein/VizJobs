@@ -1,0 +1,395 @@
+# ADMINISTRATION SUPPORT:
+Abteilungs-/Teamsekretariatskraft
+Bereichssekretariatskraft, Projektassistenz
+Chefsekretariatskraft
+Empfangskraft/Telefondienst
+Fremdsprachensekretariatskraft, -korrespondenz
+Fachkraft Servicebereich (z. B. Küche/Catering/Reinigung)
+Hausmeister:in
+Leitung Allgemeine Verwaltung/Organisation
+Leitung Betriebsorganisation
+Leitung Immobilienmanagement/Facility Management
+Leitung Security
+Leitung Servicebereich (z. B. Küche/Catering/Reinigung)
+Sachbearbeitung Verwaltung/Organisation
+Schreibkraft
+Security Professional
+Sekretariatskraft (unspezifiziert)
+Spezialist:in Immobilienmanagement/Facility Management
+Spezialist:in Verwaltung/Organisation
+Wachdienst
+
+# BANKING:
+Leitung Firmenkunden
+Leitung Gewerbekunden
+Leitung Individualkunden/Mass Affluent
+Leitung Kreditabwicklung
+Leitung Kreditadministration
+Leitung Kreditanalyse (inkl. Sicherheitenbewertung)
+Leitung Marktfolge Aktiv
+Leitung Marktfolge Passiv
+Leitung Problemkreditmanagement/Sanierung
+Leitung Unternehmenskunden
+Leitung Wealth Management
+Regionalleitung/Gebietsleitung/Filialleitung
+Spezialist:in Kreditabwicklung
+Spezialist:in Kreditanalyse (inkl. Sicherheitenbewertung)
+Spezialist:in Problemkreditmanagement/Sanierung
+Wealth Management Analyst:in
+
+# BUISNESS CONSULTING
+Consultant Unternehmensberatung
+Director & Partner:in/Principal Unternehmensberatung
+Director/Senior Manager:in Wirtschaftsprüfung
+
+# BUSINESS PLANNING DEVELOPMENT:
+Agile Coach
+Expert:in Expansion
+Leitung Expansion
+Leitung Digitaleinheit
+Leitung Strategie
+Leitung Unternehmensplanung/-entwicklung
+Sachbearbeitung Expansion
+Sachbearbeitung Strategie
+Sachbearbeitung Unternehmensentwicklung
+Spezialist:in Digitalisierung
+Spezialist:in Franchise
+Spezialist:in Strategie
+Spezialist:in Unternehmensentwicklung
+
+# COMMUNICATION PR:
+Leitung Investor Relations
+Leitung Unternehmenskommunikation/PR
+Online Redakteur:in/Content Manager:in
+Redakteur:in/Content Manager:in
+Referent:in Online Unternehmenskommunikation/PR
+Referent:in Unternehmenskommunikation/PR
+Sachbearbeitung Investor Relations
+Sachbearbeitung Unternehmenskommunikation/PR
+Spezialist:in Investor Relations
+Technische(r) Redakteur:in
+
+# CONSTRUCTION:
+Konstruktionsingenieur:in
+Konstruktionstechniker:in
+Leitung Konstruktion
+Technischer Produktdesigner:in
+
+# CUSTOMER SUPPORT:
+Expert:in Call Center
+Leitung Call Center
+Leitung Kundendienst/Kundenbetreuung
+Mitarbeiter:in Call Center
+Sachbearbeitung Kundendienst/Kundenbetreuung
+Servicetechniker:in/Kundendienst
+Spezialist:in Kundendienst/Kundenbetreuung
+Spezialist:in technischer Kundendienst
+
+# DESIGN OF CONSUMER GOODS:
+Grafik-Designer:in
+Produkt-Designer:in
+Videographer/Cutter
+
+# FINANCE:
+Controller:in
+Finanzanalyst
+Kassierer:in
+Asset Manager
+Bilanzbuchhalter:in
+Leitung Bilanzbuchhaltung/Buchhaltung
+Leitung Controlling
+Leitung Finanz- und Rechnungswesen
+Leitung Finanzanlagen
+Leitung Forderungsmanagement
+Leitung Kostenrechnung/Betriebsabrechnung
+Leitung Revision
+Leitung Riskmanagement
+Leitung Steuern
+Leitung Treasury
+Portfoliomanager:in
+Riskmanager:in
+Sachbearbeitung Buchhaltung
+Sachbearbeitung Controlling
+Sachbearbeitung Finanzen
+Sachbearbeitung Forderungsmanagement
+Sachbearbeitung Revision
+Sachbearbeitung Steuern
+Sachbearbeitung Treasury
+Spezialist:in Finanzen
+Spezialist:in Forderungsmanagement
+Spezialist:in Revision
+Spezialist:in Steuern
+Treasurer:in
+
+# HUMAN RESOURCES:
+Gehaltsbuchhalter:in
+HR-Business Partner:in (global)
+HR-Business Partner:in (national/Standort)
+Leitung Compensation & Benefits
+Leitung Führungskräfteentwicklung
+Leitung Gehaltsabrechnung
+Leitung Personal
+Leitung Personalentwicklung/Ausbildung
+Leitung Personalrekrutierung
+Leitung Personalverwaltung
+Leitung Training
+Referent:in Compensation & Benefits
+Referent:in Personal
+Referent:in Personalentwicklung
+Referent:in Personalrekrutierung
+Sachbearbeitung Compensation & Benefits
+Sachbearbeitung Gehaltsbuchhaltung
+Sachbearbeitung Personal
+Sachbearbeitung Personalentwicklung
+Sachbearbeitung Personalrekrutierung
+Trainer:in
+
+# INSURANCE:
+Leitung Leistung/Schaden
+Schadenregulierer:in (Außendienst)
+Schadenregulierer:in (Innendienst)
+Schadenregulierer:in KFZ
+
+# INFORMATION TECHNOLOGY:
+Backend Entwickler:in
+Data Analyst:in
+Data Engineer
+Data Scientist:in
+Data Strategist:in
+DevOps Engineer
+Fachkraft IT
+Frontend Entwickler:in
+iOS/App Entwickler:in
+IT Anwendungsentwickler:in (Anwendungsprogrammierung)
+IT Architekt:in
+IT Berater:in
+IT Beschaffungsmanager:in/Lizenzmanager:in
+IT Business-Analyst:in
+IT Content Manager:in
+IT Datenbankadministrator:in
+IT Datenbankdesigner:in
+IT Datenbankentwickler:in
+IT Netzwerkarchitekt:in/-planer:in
+IT Netzwerkmanager:in
+IT Produktionsplaner:in/-steuerer:in
+IT Produktmanager:in
+IT Projektleitung
+IT Qualitätsmanager:in
+IT Security Manager:in
+IT Requirements Engineer
+IT Service Level Manager:in
+IT Software Architekt:in
+IT Softwareingenieur:in
+IT Supporter:in
+IT Systemadministrator:in (Systembetreuer:in)
+IT Systemanalyst:in/Systemplaner:in
+IT Systemingenieur:in
+IT Trainingskoordinator:in
+IT User Helpdesk-Spezialist:in
+Leitung Anwendungsentwicklung (Applications)
+Java Entwickler:in
+Leitung Data Management
+Leitung IT
+Leitung IT Architektur, Methoden und Werkzeuge
+Leitung IT Betrieb (Operations)
+Leitung IT Projektmanagement
+Leitung IT Qualitätsmanagement
+Leitung IT Service
+Leitung IT Security
+Leitung Netzwerktechnik und Telekommunikation
+Leitung SAP Anwendungen
+Operator:in
+Product Owner
+SAP Architekt:in
+SAP Basis Expert:in
+SAP Berater:in
+SAP Entwickler:in
+Scrum Master
+Spezialist:in IT
+Systemprogrammierer:in
+UX/UI Designer:in
+Webentwickler:in
+
+# LEGAL:
+Compliance Manager:in
+Datenschutzbeauftragte(r)
+Leitung Compliance
+Leitung Recht
+Patentanwalt/Patentanwältin
+Referent:in Recht
+Sachbearbeitung Compliance
+Sachbearbeitung Recht
+Unternehmensjurist:in
+
+# LOGISTICS:
+Facharbeiter:in Lagerverwaltung
+Leitung Fuhrpark
+Facharbeiter:in Logistik
+Leitung Lager
+Leitung Lagerkontrolle
+Leitung Logistik/Supply Chain Management
+Leitung Logistik/Materialwirtschaft/Einkauf
+Leitung Operations
+Leitung Spedition
+LKW-Fahrer:in
+Operations Manager:in
+Projektleitung Logistik/Supply Chain Management
+Sachbearbeitung Import/Export
+Spezialist:in Logistik/Supply Chain Management
+Staplerfahrer:in
+un- oder angelernte Arbeiter:in Logistik
+
+# MARKETING:
+Leitung Marketing
+Leitung Marktforschung
+Leitung Produktmanagement
+Leitung Werbung
+Marketing Analyst:in
+Produktmanager:in
+Referent:in Marketing
+Referent:in Marktforschung
+Referent:in Online Marketing
+Sachbearbeitung Marketing
+Spezialist:in Werbung
+Spezialist:in Online Werbung
+
+# MEDICAL TECHNOLOGY PHARMA:
+Fachreferent:in Arzneimittelzulassung
+Leitung (Produkt-)Zulassung/Regulatory Affairs Manager:in
+Manager:in Gesundheitspolitik
+Medizinischer/Medizinische Berater:in/Expert:in
+Produktspezialist:in OP/Intensiv
+
+# PRODUCTION:
+Anlagenmechaniker:in
+Assistent:in der Produktionsleitung
+Betriebsleitung
+Elektroniker:in für Automatisierungstechnik
+Elektroniker:in für Betriebstechnik
+Facharbeiter:in Produktion
+Fachkraft für Metalltechnik Fachrichtung Zerspanungstechnik
+Industriemechaniker:in (Geräte- und Feinwerktechnik)
+Industriemechaniker:in (Maschinen, System-, Produktions-, Betriebstechnik)
+Ingenieur:in Fertigung/Produktion/Betrieb
+Ingenieur:in Produktions- und Verfahrenstechnik
+Ingenieur:in Werksplanung und Instandhaltung
+Lackierer:in (Verfahrensmechaniker für Beschichtungstechnik)
+Leitung Arbeitsvorbereitung/Produktionsplanung
+Leitung Außenmontage/Services
+Leitung Inbetriebsetzung
+Leitung Produktion/Fertigung/Herstellung
+Leitung Produktions- und Verfahrenstechnik
+Leitung Werksplanung und Instandhaltung
+Maschineneinrichter:in (Maschinen- und Anlagenführer:in)
+Mechatroniker:in
+Meister:in Produktion
+Metallbauer:in
+Monteur:in
+Schweißer:in
+Sachbearbeitung Arbeitsvorbereitung/Produktionsplanung
+Spezialist:in Arbeitsvorbereitung/Produktionsplanung
+Techniker:in Produktion
+ungelernte(r) Arbeiter:in Produktion
+Verfahrensmechaniker:in (Kunststoff und Kautschuk)
+Vorarbeiter:in (Schichtführer:in)
+Werkzeugmechaniker:in
+Zerspanungsmechaniker:in
+
+# PROJECT MANAGEMENT:
+Leitung Projektmanagement
+Leitung Projektmanagement Office
+Projektleitung
+
+# PURCHASING PROCUREMENT CATEGORY MANAGEMENT:
+Category Manager:in
+Disponent:in
+Leitung Category Management
+Leitung Disposition
+Leitung Einkauf
+Leitung Materialwirtschaft
+Sachbearbeitung Einkauf
+Sachbearbeitung Materialwirtschaft
+Spezialist:in Einkauf
+Assortment Manager:in
+
+# QUALITY MANAGEMENT:
+CSR-/Nachhaltigkeitsmanager
+Leitung Arbeitssicherheit
+Leitung Qualitätsmanagement/Qualitätswesen
+Leitung Umweltschutz
+Sachbearbeitung Qualitätswesen
+Spezialist:in Umweltschutz
+Spezialist:in Arbeitssicherheit
+Spezialist:in/Beauftragter/Beauftragte Qualitätswesen
+
+# REAL ESTATE:
+Architekt:in
+Asset Manager (Immobilien)
+Bauingenieur:in
+Immobilien-/Hausverwalter:in
+Immobilienbewerter:in
+Kaufmännischer/Kaufmännische Objektmanager:in
+Leitung Asset Management (Immobilien)
+Leitung Bau und Instandhaltung
+Leitung Immobilienbewertung
+Leitung Nebenkostenabrechnung
+Leitung Projektentwicklung
+Leitung Projektsteuerung
+Leitung Vermietungsmanagement
+Makler:in
+Sachbearbeitung Immobilienbewertung
+Projektsteuerung
+Sachbearbeitung Mietenbuchhaltung/Mahn- und Klagewesen
+Sachbearbeitung Nebenkostenabrechnung
+Sachverständige:r Immobilien
+Spezialist:in Projektentwicklung
+Technischer/Technische Objektmanager:in
+Vermietungsmanager:in
+
+# RESEARCH DEVELOPMENT:
+Applikationsingenieur:in
+Expert:in Produktzulassung/Homologation
+Ingenieur:in Entwicklungsschwerpunkt
+Laborfachkraft
+Leitung Forschung und Entwicklung
+Leitung Labor
+Leitung Produktentwicklung
+Projektleitung Forschung und Entwicklung
+Manager:in Produktentwicklung
+Sachbearbeitung Forschung und Entwicklung
+Softwareingenieur:in
+Spezialist:in Forschung und Entwicklung
+Testingenieur:in
+
+# SALES OPERATION DISTRIBUTION:
+Account Manager:in Online
+Außendienstmitarbeiter:in Vertrieb
+Channel Manager
+Expert:in Vertriebsunterstützung
+Gebiets-/Regionalverkaufsleitung (Sparten-/Produktverkaufsleitung)
+Key-Account-Manager:in
+Kundenberater:in/Account Manager:in
+Leitung Außendienst
+Leitung Export
+Leitung Gewerbe- und Firmenkunden (ohne Banken, Versicherungen)
+Leitung Key Account Management
+Leitung Gewerbe- und Firmenkunden (ohne Banken, Versicherungen)
+Leitung Privatkunden (ohne Banken, Versicherungen)
+Leitung Verkaufsförderung
+Leitung Vertrieb
+Leitung Vertriebsinnendienst
+Leitung Vertriebssteuerung/-controlling
+Sachbearbeitung Vertrieb
+Sachbearbeitung Vertriebscontrolling
+Spezialist:in Vertriebssteuerung/-controlling
+Verkaufsförderer:in/Merchandiser:in
+Vertriebsingenieur:in
+Vertriebsinnendienst (operativ)
+
+# SALES DETAIL:
+Expert:in E-Commerce
+Leitung Verkaufsniederlassung/Geschäftsstelle
+Leitung E-Commerce
+Storemanager:in/Filialleiter:in
+Verkaufskraft
+Warenhausleitung

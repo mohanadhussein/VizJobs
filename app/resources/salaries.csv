@@ -1,0 +1,1349 @@
+﻿title,p10,q1,median,q3,p90,average,company_industry,correct_job_level,state
+Controller,46000,55100,67400,82300,98600,70700,Finance,,
+Finanzanalyst,46900,56100,68600,83800,100300,72000,Finance,,
+Kassierer,29000,34600,41700,49700,58200,43300,Finance,,
+Asset Manager,45800,55800,68100,83200,99700,71600,Finance,Senior,
+Bilanzbuchhalter,41000,49500,60500,74000,88600,63600,Finance,,
+Leitung Bilanzbuchhaltung/Buchhaltung,53200,67000,86400,111500,140300,93600,Finance,Lead,
+Leitung Controlling,56000,70500,91000,117400,147700,98500,Finance,Lead,
+Leitung Finanz- und Rechnungswesen,59400,74800,96500,124500,156600,104500,Finance,Lead,
+Leitung Finanzanlagen,71800,90400,116600,150500,189300,126200,Finance,Lead,
+Leitung Forderungsmanagement,46500,58500,75500,97500,122600,81800,Finance,Lead,
+Leitung Kostenrechnung/Betriebsabrechnung,51600,64900,83700,108000,135900,90600,Finance,Lead,
+Leitung Revision,62500,78600,101400,130900,164700,109800,Finance,Lead,
+Leitung Riskmanagement,64000,80500,103800,134000,168500,112400,Finance,Lead,
+Leitung Steuern,58600,73700,95100,122700,154400,103000,Finance,Lead,
+Leitung Treasury,76500,96300,124200,160300,201700,134500,Finance,Lead,
+Portfoliomanager,54600,65300,79800,97500,116800,83800,Finance,Senior,
+Riskmanager,51600,61800,75500,92300,110500,79300,Finance,Senior,
+Sachbearbeitung Buchhaltung,34600,41300,49300,58700,68800,51200,Finance,Junior,
+Sachbearbeitung Controlling,36900,43800,52200,62300,73000,54300,Finance,Junior,
+Sachbearbeitung Finanzen,36200,43000,51300,61100,71600,53200,Finance,Junior,
+Sachbearbeitung Forderungsmanagement,31600,37600,44800,53500,62600,46600,Finance,Junior,
+Sachbearbeitung Revision,40700,48300,57600,68700,80500,59900,Finance,Junior,
+Sachbearbeitung Steuern,36200,43000,51300,61100,71600,53200,Finance,Junior,
+Sachbearbeitung Treasury,38300,45500,54200,64600,75700,56300,Finance,Junior,
+Spezialist Finanzen,46000,55100,67300,82200,98500,70700,Finance,Mid,
+Spezialist Forderungsmanagement,39300,47100,57500,70200,84100,60400,Finance,Mid,
+Spezialist Revision,53500,64100,78300,95600,114500,82200,Finance,Mid,
+Spezialist Steuern,50300,60300,73600,90000,107700,77300,Finance,Mid,
+Treasurer,56200,67300,82200,100500,120300,86300,Finance,,
+Backend Entwickler,41000,50100,61800,75400,90400,64900,Information Technology IT,,
+Data Analyst,45500,54500,66600,81400,97500,69900,Information Technology IT,,
+Data Engineer,46000,55000,67300,82200,98400,70600,Information Technology IT,,
+Data Scientist,47300,56700,69300,84600,101400,72800,Information Technology IT,,
+Data Strategist,44700,53500,65400,79900,95700,68700,Information Technology IT,,
+DevOps Engineer,44500,54300,67200,82100,98400,70600,Information Technology IT,,
+Fachkraft IT,38000,45100,53800,64200,75200,55900,Information Technology IT,Junior,
+Frontend Entwickler,40500,49500,61400,75000,89800,64500,Information Technology IT,,
+iOS/App Entwickler,42900,52400,64500,78800,94400,67700,Information Technology IT,,
+IT Anwendungsentwickler (Anwendungsprogrammierung),44100,52800,64500,78800,94400,67700,Information Technology IT,,
+IT Architekt,59300,71000,86700,106000,126900,91100,Information Technology IT,,
+IT Berater,44300,53100,64800,79200,94900,68100,Information Technology IT,,
+IT Beschaffungsmanager/Lizenzmanager,41100,49300,60200,73600,88100,63300,Information Technology IT,Senior,
+IT Business-Analyst,47900,57300,70000,85600,102500,73600,Information Technology IT,,
+IT Content Manager,39500,47200,57700,70500,84500,60600,Information Technology IT,Senior,
+IT Datenbankadministrator,45300,54200,66200,80900,96900,69500,Information Technology IT,,
+IT Datenbankdesigner,47900,58600,71800,87700,105000,75400,Information Technology IT,,
+IT Datenbankentwickler,40600,48600,59400,72600,87000,62400,Information Technology IT,,
+IT Netzwerkarchitekt/-planer,49600,59400,72500,88600,106100,76200,Information Technology IT,,
+IT Netzwerkmanager,44300,53700,65600,80200,96000,68900,Information Technology IT,Senior,
+IT Produktionsplaner/-steuerer,45000,55000,67600,82600,98900,71000,Information Technology IT,,
+IT Produktmanager,46700,55900,68300,83500,100000,71700,Information Technology IT,Senior,
+IT Projektleitung,48300,57900,70700,86400,103500,74300,Information Technology IT,Lead,
+IT QualitÃ¤tsmanager,44600,53500,65400,79900,95700,68700,Information Technology IT,Senior,
+IT Security Manager,54400,65600,80200,98000,117300,84200,Information Technology IT,Senior,
+IT Requirements Engineer,48600,58800,71800,87700,105000,75400,Information Technology IT,,
+IT Service Level Manager,49200,58900,72000,88000,105400,75600,Information Technology IT,Senior,
+IT Software Architekt,51200,61300,74900,91600,109600,78700,Information Technology IT,,
+IT Softwareingenieur,45800,54800,67000,81800,98000,70300,Information Technology IT,,
+IT Supporter,33400,39500,47100,56100,65800,48900,Information Technology IT,,
+IT Systemadministrator (Systembetreuer),41000,49200,60100,73400,87900,63100,Information Technology IT,,
+IT Systemanalyst/Systemplaner,49300,59100,72200,88200,105600,75800,Information Technology IT,,
+IT Systemingenieur,46100,55200,67500,82400,98700,70800,Information Technology IT,,
+IT Trainingskoordinator,43200,52000,63600,77700,93000,66800,Information Technology IT,,
+IT User Helpdesk-Spezialist,34600,41100,49000,58500,68500,50900,Information Technology IT,Mid,
+Leitung Anwendungsentwicklung (Applications),55900,70300,90700,117000,147200,98200,Information Technology IT,Lead,
+Java Entwickler,44000,53800,66100,80700,96600,69400,Information Technology IT,,
+Leitung Data Management,57600,72400,93500,120600,151700,101200,Information Technology IT,Lead,
+Leitung IT,58800,73900,95400,123100,154800,103300,Information Technology IT,Lead,
+Leitung IT Architektur Methoden und Werkzeuge,56300,70800,91400,118000,148400,99000,Information Technology IT,Lead,
+Leitung IT Betrieb (Operations),52100,65500,84500,109000,137100,91500,Information Technology IT,Lead,
+Leitung IT Projektmanagement,53100,66800,86200,111300,139900,93300,Information Technology IT,Lead,
+Leitung IT QualitÃ¤tsmanagement,53400,67100,86700,111800,140700,93800,Information Technology IT,Lead,
+Leitung IT Service,55300,69600,89800,115800,145700,97200,Information Technology IT,Lead,
+Leitung IT Security,58200,73200,94500,121900,153400,102300,Information Technology IT,Lead,
+Leitung Netzwerktechnik und Telekommunikation,56900,71600,92400,119200,149900,100000,Information Technology IT,Lead,
+Leitung SAP Anwendungen,54800,69000,89000,114900,144500,96400,Information Technology IT,Lead,
+Operator,31700,37700,44900,53600,62800,46600,Information Technology IT,,
+Product Owner,47500,56900,69500,84900,101600,73000,Information Technology IT,,
+SAP Architekt,55200,66100,80700,98600,118100,84800,Information Technology IT,,
+SAP Basis Expert,46000,55000,67300,82200,98400,70600,Information Technology IT,,
+SAP Berater,47700,57200,69900,85400,102200,73400,Information Technology IT,,
+SAP Entwickler,50700,60800,74200,90700,108600,78000,Information Technology IT,,
+Scrum Master,45000,53900,65800,80400,96300,69100,Information Technology IT,,
+Spezialist IT,42200,50900,62200,76000,91000,65400,Information Technology IT,Mid,
+Systemprogrammierer,49300,60200,73700,90000,107800,77400,Information Technology IT,,
+UX/UI Designer,40900,49000,59800,73100,87600,62900,Information Technology IT,,
+Webentwickler,41100,49400,60300,73700,88200,63300,Information Technology IT,,
+Abteilungs-/Teamsekretariatskraft,33000,39300,46900,56000,65600,48700,Administration,,
+"Bereichssekretariatskraft, Projektassistenz",39000,46400,55300,66000,77300,57400,Administration,,
+Chefsekretariatskraft,41200,48400,57800,68900,80700,60000,Administration,,
+Empfangskraft/Telefondienst,28400,33900,40600,48400,56700,42100,Administration,,
+"Fremdsprachensekretariatskraft, -korrespondenz",38400,45700,54800,65300,76500,56900,Administration,,
+Fachkraft Servicebereich (z. B. KÃ¼che/Catering/Reinigung),25200,28200,32000,36200,40500,32600,Administration,Junior,
+Hausmeister,32800,36700,41600,47100,52700,42400,Administration,,
+Leitung Allgemeine Verwaltung/Organisation,56200,70700,91200,117700,148000,98700,Administration,Lead,
+Leitung Betriebsorganisation,55500,69900,90200,116300,146300,97600,Administration,Lead,
+Leitung Immobilienmanagement/Facility Management,51000,64200,82800,106900,134500,89700,Administration,Lead,
+Leitung Security,47900,60300,77800,100400,126300,84200,Administration,Lead,
+Leitung Servicebereich (z. B. KÃ¼che/Catering/Reinigung),31300,39400,50900,65600,82600,55100,Administration,Lead,
+Sachbearbeitung Verwaltung/Organisation,32200,38300,45600,54400,63700,47400,Administration,Junior,
+Schreibkraft,28600,34000,40600,48400,56700,42100,Administration,,
+Security Professional,39500,47300,57800,70600,84600,60700,Administration,Mid,
+Sekretariatskraft (unspezifiziert),37200,44300,52800,62900,73800,54800,Administration,,
+Spezialist Immobilienmanagement/Facility Management,41400,49600,60600,74100,88700,63700,Administration,Mid,
+Spezialist Verwaltung/Organisation,44500,53200,65000,79500,95200,68300,Administration,Mid,
+Wachdienst,34600,38700,43800,49600,55500,44600,Administration,,
+Leitung Firmenkunden,58100,73000,94200,121600,153000,102000,Banking,Lead,
+Leitung Gewerbekunden,64200,80700,104200,134400,169100,112800,Banking,Lead,
+Leitung Individualkunden/Mass Affluent,49700,62500,80600,104000,130900,87300,Banking,Lead,
+Leitung Kreditabwicklung,49500,62200,80300,103600,130300,86900,Banking,Lead,
+Leitung Kreditadministration,56700,71300,92000,118700,149300,99600,Banking,Lead,
+Leitung Kreditanalyse (inkl. Sicherheitenbewertung),56300,70800,91400,117900,148300,98900,Banking,Lead,
+Leitung Marktfolge Aktiv,62200,78300,101000,130400,164000,109400,Banking,Lead,
+Leitung Marktfolge Passiv,45700,57500,74200,95800,120500,80400,Banking,Lead,
+Leitung Problemkreditmanagement/Sanierung,52000,65400,84400,108900,137000,91400,Banking,Lead,
+Leitung Unternehmenskunden,57900,72800,94000,121200,152500,101700,Banking,Lead,
+Leitung Wealth Management,62400,78400,101200,130600,164300,109600,Banking,Lead,
+Regionalleitung/Gebietsleitung/Filialleitung,56500,71000,91600,118300,148800,99200,Banking,Lead,
+Spezialist Kreditabwicklung,43900,52500,64200,78400,93900,67400,Banking,Mid,
+Spezialist Kreditanalyse (inkl. Sicherheitenbewertung),41400,49600,60600,74100,88700,63700,Banking,Mid,
+Spezialist Problemkreditmanagement/Sanierung,49800,59700,72900,89100,106700,76600,Banking,Mid,
+Wealth Management Analyst,42800,51300,62700,76600,91700,65800,Banking,,
+Consultant Unternehmensberatung,43700,52400,64000,78200,93600,67200,Business Consulting,,
+Director & Partner/Principal Unternehmensberatung,63500,79900,103100,133100,167400,111700,Business Consulting,Lead,
+Director/Senior Manager WirtschaftsprÃ¼fung,62500,78600,101500,130900,164700,109800,Business Consulting,Lead,
+Agile Coach,48400,59100,72400,88500,106000,76100,Business Planning Development,,
+Expert Expansion,47200,56500,69000,84300,101000,72500,Business Planning Development,,
+Leitung Expansion,64500,81100,104600,135000,169900,113300,Business Planning Development,Lead,
+Leitung Digitaleinheit,62200,78300,101000,130300,163900,109300,Business Planning Development,Lead,
+Leitung Strategie,68600,86300,111300,143700,180700,120500,Business Planning Development,Lead,
+Leitung Unternehmensplanung/-entwicklung,66900,84200,108600,140200,176300,117600,Business Planning Development,Lead,
+Sachbearbeitung Expansion,34500,40900,48800,58200,68200,50700,Business Planning Development,Junior,
+Sachbearbeitung Strategie,37100,44100,52600,62800,73500,54700,Business Planning Development,Junior,
+Sachbearbeitung Unternehmensentwicklung,37200,44200,52700,62800,73600,54700,Business Planning Development,Junior,
+Spezialist Digitalisierung,42000,51300,63100,77200,92400,66300,Business Planning Development,Mid,
+Spezialist Franchise,51100,61200,74700,91300,109400,78500,Business Planning Development,Mid,
+Spezialist Strategie,48200,57700,70500,86100,103200,74000,Business Planning Development,Mid,
+Spezialist Unternehmensentwicklung,53000,63400,77500,94700,113400,81400,Business Planning Development,Mid,
+Leitung Investor Relations,69700,87600,113100,145900,183500,122400,Communication Public Relations,Lead,
+Leitung Unternehmenskommunikation/PR,54200,68100,87900,113500,142700,95200,Communication Public Relations,Lead,
+Online Redakteur/Content Manager,37600,45000,55000,67200,80500,57800,Communication Public Relations,Senior,
+Redakteur/Content Manager,40700,48800,59600,72800,87200,62600,Communication Public Relations,Senior,
+Referent Online Unternehmenskommunikation/PR,42400,50700,62000,75700,90700,65100,Communication Public Relations,Mid,
+Referent Unternehmenskommunikation/PR,41900,50100,61300,74800,89600,64300,Communication Public Relations,Mid,
+Sachbearbeitung Investor Relations,32800,39000,46500,55500,65000,48300,Communication Public Relations,Junior,
+Sachbearbeitung Unternehmenskommunikation/PR,32000,38000,45400,54100,63400,47100,Communication Public Relations,Junior,
+Spezialist Investor Relations,52200,62600,76400,93400,111800,80300,Communication Public Relations,Mid,
+Technische(r) Redakteur,34000,41600,51200,62600,75000,53800,Communication Public Relations,,
+Konstruktionsingenieur,44900,54700,66900,81700,97800,70200,Construction,,
+Konstruktionstechniker,43000,48400,54900,62100,69500,55900,Construction,,
+Leitung Konstruktion,57300,72100,93100,120100,151000,100700,Construction,Lead,
+Technischer Produktdesigner,39200,44100,50000,56600,63300,50900,Construction,,
+Expert Call Center,37600,45100,55000,67300,80500,57800,Customer Support,,
+Leitung Call Center,38300,48100,62100,80100,100800,67200,Customer Support,Lead,
+Leitung Kundendienst/Kundenbetreuung,47700,60000,77400,99900,125600,83800,Customer Support,Lead,
+Mitarbeiter Call Center,26600,31500,37600,44800,52500,39000,Customer Support,,
+Sachbearbeitung Kundendienst/Kundenbetreuung,31400,37300,44400,53000,62100,46200,Customer Support,Junior,
+Servicetechniker/Kundendienst,36900,41300,46700,52900,59200,47600,Customer Support,,
+Spezialist Kundendienst/Kundenbetreuung,38400,46000,56200,68600,82200,59000,Customer Support,Mid,
+Spezialist technischer Kundendienst,40200,48100,58800,71900,86100,61800,Customer Support,Mid,
+Grafik-Designer,34800,41600,50900,62200,74400,53400,Design,,
+Produkt-Designer,36800,44000,53800,65700,78700,56500,Design,,
+Videographer/Cutter,32900,39200,47300,56500,66100,49200,Design,,
+Gehaltsbuchhalter,38000,46400,57200,69900,83800,60100,Human Ressources,,
+HR-Business Partner (global),61000,73100,89300,109100,130600,93800,Human Ressources,,
+HR-Business Partner (national/Standort),47600,57000,69600,85100,101900,73100,Human Ressources,,
+Leitung Compensation & Benefits,57200,71900,92800,119800,150600,100500,Human Ressources,Lead,
+Leitung FÃ¼hrungskrÃ¤fteentwicklung,52500,66100,85200,110000,138400,92300,Human Ressources,Lead,
+Leitung Gehaltsabrechnung,45900,57700,74400,96100,120800,80600,Human Ressources,Lead,
+Leitung Personal,59000,74200,95800,123600,155500,103700,Human Ressources,Lead,
+Leitung Personalentwicklung/Ausbildung,51500,64800,83700,107900,135800,90600,Human Ressources,Lead,
+Leitung Personalrekrutierung,50000,62900,81200,104800,131900,87900,Human Ressources,Lead,
+Leitung Personalverwaltung,54400,68500,88300,114000,143400,95600,Human Ressources,Lead,
+Leitung Training,51900,65300,84300,108700,136800,91200,Human Ressources,Lead,
+Referent Compensation & Benefits,44100,52800,64500,78800,94300,67700,Human Ressources,Mid,
+Referent Personal,45000,54300,66300,81000,97000,69600,Human Ressources,Mid,
+Referent Personalentwicklung,44100,52800,64500,78800,94400,67700,Human Ressources,Mid,
+Referent Personalrekrutierung,40000,48000,58600,71600,85700,61500,Human Ressources,Mid,
+Sachbearbeitung Compensation & Benefits,35100,41900,50100,59700,69900,52000,Human Ressources,Junior,
+Sachbearbeitung Gehaltsbuchhaltung,35800,42700,51100,61000,71400,53100,Human Ressources,Junior,
+Sachbearbeitung Personal,41400,49300,58800,70100,82100,61000,Human Ressources,Junior,
+Sachbearbeitung Personalentwicklung,32900,39200,46800,55800,65400,48600,Human Ressources,Junior,
+Sachbearbeitung Personalrekrutierung,32300,38500,46000,54900,64300,47800,Human Ressources,Junior,
+Trainer,44300,53000,64800,79100,94800,68000,Human Ressources,,
+Leitung Leistung/Schaden,52600,66100,85400,110100,138600,92400,Insurance,Lead,
+Schadenregulierer (AuÃŸendienst),36900,43600,51900,61900,72600,54000,Insurance,,
+Schadenregulierer (Innendienst),33300,39700,47300,56400,66100,49100,Insurance,,
+Schadenregulierer KFZ,32600,38600,46000,54800,64200,47800,Insurance,,
+Compliance Manager,51600,61700,75400,92200,110400,79200,Legal,Senior,
+Datenschutzbeauftragte(r),46700,57000,69900,85400,102300,73400,Legal,,
+Leitung Compliance,63500,79800,103000,132900,167200,111500,Legal,Lead,
+Leitung Recht,65300,82200,106100,136900,172200,114800,Legal,Lead,
+Patentanwalt/PatentanwÃ¤ltin,57000,68300,83500,102000,122100,87600,Legal,,
+Referent Recht,50800,60900,74400,90800,108800,78100,Legal,Mid,
+Sachbearbeitung Compliance,37300,44300,52900,63000,73900,54900,Legal,Junior,
+Sachbearbeitung Recht,36800,43800,52200,62200,72900,54200,Legal,Junior,
+Unternehmensjurist,60200,72000,88000,107500,128800,92400,Legal,,
+Facharbeiter Lagerverwaltung,33600,37600,42500,48200,53900,43400,Logistics,Junior,
+Leitung Fuhrpark,42100,53500,69000,89000,112000,74700,Logistics,Lead,
+Facharbeiter Logistik,31100,34800,39400,44600,49900,40100,Logistics,Junior,
+Leitung Lager,36900,46800,60300,77900,97900,65300,Logistics,Lead,
+Leitung Lagerkontrolle,34800,43800,56500,72900,91700,61100,Logistics,Lead,
+Leitung Logistik/Supply Chain Management,54100,68100,87800,113300,142600,95100,Logistics,Lead,
+Leitung Logistik/Materialwirtschaft/Einkauf,57500,72300,93300,120400,151500,101000,Logistics,Lead,
+Leitung Operations,58400,73500,94800,122400,154000,102700,Logistics,Lead,
+Leitung Spedition,49200,62300,80400,103700,130500,87000,Logistics,Lead,
+LKW-Fahrer,31400,35100,39700,45000,50300,40500,Logistics,,
+Operations Manager,39300,47900,58600,71600,85700,61500,Logistics,Senior,
+Projektleitung Logistik/Supply Chain Management,49600,60500,73900,90300,108100,77600,Logistics,Lead,
+Sachbearbeitung Import/Export,31700,37700,45000,53600,62800,46700,Logistics,Junior,
+Spezialist Logistik/Supply Chain Management,38900,47400,57900,70700,84700,60800,Logistics,Mid,
+Staplerfahrer,31700,35500,40200,45500,50900,41000,Logistics,,
+un- oder angelernte Arbeiter Logistik,25800,28900,32700,37100,41400,33300,Logistics,Junior,
+Leitung Marketing,56700,71400,92100,118800,149500,99700,Marketing,Lead,
+Leitung Marktforschung,55600,70000,90300,116500,146500,97700,Marketing,Lead,
+Leitung Produktmanagement,53700,67600,87200,112500,141600,94400,Marketing,Lead,
+Leitung Werbung,48800,61400,79200,102200,128600,85800,Marketing,Lead,
+Marketing Analyst,40800,48900,59800,73000,87400,62800,Marketing,,
+Produktmanager,45000,53900,65900,80500,96400,69200,Marketing,Senior,
+Referent Marketing,43500,52100,63700,77800,93200,66900,Marketing,Mid,
+Referent Marktforschung,45000,54400,66400,81200,97200,69800,Marketing,Mid,
+Referent Online Marketing,41200,49400,60300,73700,88300,63300,Marketing,Mid,
+Sachbearbeitung Marketing,33000,39300,46800,55900,65500,48700,Marketing,Junior,
+Spezialist Werbung,48900,58600,71600,87500,104800,75200,Marketing,Mid,
+Spezialist Online Werbung,40600,48600,59400,72600,86900,62400,Marketing,Mid,
+Fachreferent Arzneimittelzulassung,43700,52400,64000,78200,93600,67200,Medical Technology,Mid,
+Leitung (Produkt-)Zulassung/Regulatory Affairs Manager,60300,75900,97900,126400,159000,106000,Medical Technology,Lead,
+Manager Gesundheitspolitik,63900,76600,93500,114300,136900,98200,Medical Technology,Senior,
+Medizinischer/Medizinische Berater/Expert,52900,63400,77500,94700,113400,81400,Medical Technology,,
+Produktspezialist OP/Intensiv,43700,52400,64000,78200,93600,67200,Medical Technology,Mid,
+Anlagenmechaniker,35500,39700,44900,50900,56900,45800,Production,,
+Assistent der Produktionsleitung,37100,45400,55400,67700,81100,58200,Production,Lead,
+Betriebsleitung,61400,77300,99700,128700,161900,108000,Production,Lead,
+Elektroniker fÃ¼r Automatisierungstechnik,35400,39600,44900,50800,56800,45700,Production,,
+Elektroniker fÃ¼r Betriebstechnik,38800,43300,49100,55600,62200,50000,Production,,
+Facharbeiter Produktion,34000,38100,43100,48800,54600,44000,Production,Junior,
+Fachkraft fÃ¼r Metalltechnik Fachrichtung Zerspanungstechnik,36100,40400,45700,51800,57900,46600,Production,Junior,
+Industriemechaniker (GerÃ¤te- und Feinwerktechnik),38300,42800,48500,54900,61500,49400,Production,,
+"Industriemechaniker (Maschinen, System-, Produktions-, Betriebstechnik)",37500,42000,47500,53800,60200,48400,Production,,
+Ingenieur Fertigung/Produktion/Betrieb,43200,52600,64300,78500,94000,67500,Production,,
+Ingenieur Produktions- und Verfahrenstechnik,43000,52100,63600,77700,93100,66800,Production,,
+Ingenieur Werksplanung und Instandhaltung,43700,52800,64500,78800,94400,67800,Production,,
+Lackierer (Verfahrensmechaniker fÃ¼r Beschichtungstechnik),34600,38700,43900,49700,55600,44700,Production,,
+Leitung Arbeitsvorbereitung/Produktionsplanung,47000,59100,76200,98400,123800,82500,Production,Lead,
+Leitung AuÃŸenmontage/Services,43600,54900,70800,91400,114900,76600,Production,Lead,
+Leitung Inbetriebsetzung,46800,58900,76000,98100,123400,82300,Production,Lead,
+Leitung Produktion/Fertigung/Herstellung,51900,65300,84300,108700,136800,91200,Production,Lead,
+Leitung Produktions- und Verfahrenstechnik,56300,70900,91400,118000,148400,99000,Production,Lead,
+Leitung Werksplanung und Instandhaltung,48400,60900,78500,101400,127500,85000,Production,Lead,
+Maschineneinrichter (Maschinen- und AnlagenfÃ¼hrer),33200,37100,42100,47600,53300,42900,Production,,
+Mechatroniker,33900,37900,42900,48600,54400,43700,Production,,
+Meister Produktion,38500,49700,64100,82800,104100,69400,Production,,
+Metallbauer,33900,37900,42900,48600,54400,43800,Production,,
+Monteur,33800,37800,42800,48400,54200,43600,Production,,
+SchweiÃŸer,34900,39000,44200,50100,56000,45000,Production,,
+Sachbearbeitung Arbeitsvorbereitung/Produktionsplanung,35000,41600,49600,59200,69400,51600,Production,Junior,
+Spezialist Arbeitsvorbereitung/Produktionsplanung,40200,49100,60700,74200,88900,63800,Production,Mid,
+Techniker Produktion,38200,46700,57000,69700,83400,59900,Production,,
+ungelernte(r) Arbeiter Produktion,29500,33000,37300,42300,47300,38000,Production,,
+Verfahrensmechaniker (Kunststoff und Kautschuk),35400,39600,44800,50700,56700,45700,Production,,
+Vorarbeiter (SchichtfÃ¼hrer),38200,42800,48400,54900,61400,49400,Production,,
+Werkzeugmechaniker,35500,39800,45100,51100,57100,46000,Production,,
+Zerspanungsmechaniker,40100,44900,50800,57600,64400,51800,Production,,
+Leitung Projektmanagement,59500,74800,96500,124600,156700,104500,Project Management,Lead,
+Leitung Projektmanagement Office,58600,73700,95200,122800,154500,103000,Project Management,Lead,
+Projektleitung,51600,61800,75500,92300,110500,79300,Project Management,Lead,
+Category Manager,47600,57000,69700,85100,102000,73200,Purchasing Procurement,Senior,
+Disponent,31500,37300,44500,53000,62100,46200,Purchasing Procurement,,
+Leitung Category Management,55800,70200,90600,116900,147100,98100,Purchasing Procurement,Lead,
+Leitung Disposition,48800,61400,79200,102300,128600,85800,Purchasing Procurement,Lead,
+Leitung Einkauf,56200,70700,91300,117800,148100,98800,Purchasing Procurement,Lead,
+Leitung Materialwirtschaft,52500,66000,85200,110000,138300,92300,Purchasing Procurement,Lead,
+Sachbearbeitung Einkauf,34500,41100,49000,58400,68400,50800,Purchasing Procurement,Junior,
+Sachbearbeitung Materialwirtschaft,30000,35600,42500,50600,59300,44100,Purchasing Procurement,Junior,
+Spezialist Einkauf,43200,52300,63900,78100,93500,67100,Purchasing Procurement,Mid,
+Assortment Manager,42600,51600,63000,77000,92200,66200,Purchasing Procurement,Senior,
+CSR-/Nachhaltigkeitsmanager,45100,55100,67800,82800,99200,71200,Quality Management,Senior,
+Leitung Arbeitssicherheit,52400,65900,85100,109800,138100,92100,Quality Management,Lead,
+Leitung QualitÃ¤tsmanagement/QualitÃ¤tswesen,51500,64800,83600,107900,135700,90500,Quality Management,Lead,
+Leitung Umweltschutz,53700,67500,87100,112400,141500,94300,Quality Management,Lead,
+Sachbearbeitung QualitÃ¤tswesen,31800,38000,45900,54700,64100,47700,Quality Management,Junior,
+Spezialist Umweltschutz,45800,56000,68800,84100,100700,72300,Quality Management,Mid,
+Spezialist Arbeitssicherheit,41000,50000,61500,75200,90000,64600,Quality Management,Mid,
+Spezialist/Beauftragter/Beauftragte QualitÃ¤tswesen,41400,50500,62100,75900,90800,65200,Quality Management,Mid,
+Architekt,45100,54000,66000,80600,96500,69300,Real Estate,,
+Asset Manager (Immobilien),51900,62200,76000,92800,111200,79800,Real Estate,Senior,
+Bauingenieur,45900,55000,67200,82100,98300,70500,Real Estate,,
+Immobilien-/Hausverwalter,36100,44200,54200,66300,79400,57000,Real Estate,,
+Immobilienbewerter,43300,52300,63900,78100,93600,67200,Real Estate,,
+KaufmÃ¤nnischer/KaufmÃ¤nnische Objektmanager,35600,42300,50500,60200,70600,52400,Real Estate,Senior,
+Leitung Asset Management (Immobilien),60900,76600,98800,127500,160300,106900,Real Estate,Lead,
+Leitung Bau und Instandhaltung,57300,72000,93000,120000,150900,100700,Real Estate,Lead,
+Leitung Immobilienbewertung,56000,70500,90900,117400,147600,98500,Real Estate,Lead,
+Leitung Nebenkostenabrechnung,42500,53400,68900,89000,111900,74600,Real Estate,Lead,
+Leitung Projektentwicklung,70600,88900,114700,148000,186100,124100,Real Estate,Lead,
+Leitung Projektsteuerung,57700,72500,93600,120800,151900,101300,Real Estate,Lead,
+Leitung Vermietungsmanagement,54700,68800,88700,114500,144000,96100,Real Estate,Lead,
+Makler,38200,45700,55900,68300,81800,58700,Real Estate,,
+Sachbearbeitung Immobilienbewertung,32200,38400,45800,54700,64000,47600,Real Estate,Junior,
+Projektsteuerung,46400,55500,67900,82900,99300,71300,Real Estate,,
+Sachbearbeitung Mietenbuchhaltung/Mahn- und Klagewesen,33900,40300,48100,57400,67200,50000,Real Estate,Junior,
+Sachbearbeitung Nebenkostenabrechnung,32200,38400,45900,54700,64100,47600,Real Estate,Junior,
+SachverstÃ¤ndige:r Immobilien,39000,47200,57600,70400,84300,60500,Real Estate,,
+Spezialist Projektentwicklung,52500,62900,76800,93900,112400,80700,Real Estate,Mid,
+Technischer/Technische Objektmanager,41300,49500,60500,73900,88500,63500,Real Estate,Senior,
+Vermietungsmanager,39200,47400,57900,70800,84800,60800,Real Estate,Senior,
+Applikationsingenieur,45100,54100,66100,80700,96700,69400,Research Development,,
+Expert Produktzulassung/Homologation,47900,57300,70100,85600,102500,73600,Research Development,,
+Ingenieur Entwicklungsschwerpunkt,45000,53900,65800,80400,96300,69100,Research Development,,
+Laborfachkraft,32300,38500,46500,55500,65000,48300,Research Development,Junior,
+Leitung Forschung und Entwicklung,58500,73600,95000,122600,154200,102800,Research Development,Lead,
+Leitung Labor,50700,63800,82300,106200,133600,89100,Research Development,Lead,
+Leitung Produktentwicklung,59300,74600,96300,124300,156300,104300,Research Development,Lead,
+Projektleitung Forschung und Entwicklung,49900,59700,72900,89100,106700,76600,Research Development,Lead,
+Manager Produktentwicklung,44300,53000,64700,79100,94700,68000,Research Development,Senior,
+Sachbearbeitung Forschung und Entwicklung,34700,41300,50000,59600,69900,51900,Research Development,Junior,
+Softwareingenieur,45100,54000,65900,80500,96500,69200,Research Development,,
+Spezialist Forschung und Entwicklung,43000,51700,63100,77100,92300,66300,Research Development,Mid,
+Testingenieur,42700,51200,62600,76500,91600,65700,Research Development,,
+Account Manager Online,45700,54700,66800,81600,97700,70200,Sales Operation Distribution,Senior,
+AuÃŸendienstmitarbeiter Vertrieb,39500,47200,57700,70500,84500,60600,Sales Operation Distribution,,
+Channel Manager,45800,55200,67400,82300,98600,70800,Sales Operation Distribution,Senior,
+Expert VertriebsunterstÃ¼tzung,38700,46300,56600,69100,82800,59400,Sales Operation Distribution,,
+Gebiets-/Regionalverkaufsleitung (Sparten-/Produktverkaufsleitung),51300,64600,83300,107500,135300,90200,Sales Operation Distribution,Lead,
+Key-Account-Manager,50400,60400,73800,90200,108000,77500,Sales Operation Distribution,Senior,
+Kundenberater/Account Manager,43800,52500,64100,78300,93800,67300,Sales Operation Distribution,Senior,
+Leitung AuÃŸendienst,54900,69000,89100,114900,144600,96400,Sales Operation Distribution,Lead,
+Leitung Export,59800,75200,97000,125200,157500,105000,Sales Operation Distribution,Lead,
+"Leitung Gewerbe- und Firmenkunden (ohne Banken, Versicherungen)",60300,75800,97900,126300,158900,106000,Sales Operation Distribution,Lead,
+Leitung Key Account Management,65400,82200,106100,136900,172200,114900,Sales Operation Distribution,Lead,
+"Leitung Gewerbe- und Firmenkunden (ohne Banken, Versicherungen)",60300,75800,97900,126300,158900,106000,Sales Operation Distribution,Lead,
+"Leitung Privatkunden (ohne Banken, Versicherungen)",53700,67500,87100,112400,141400,94300,Sales Operation Distribution,Lead,
+Leitung VerkaufsfÃ¶rderung,49700,62500,80700,104100,131000,87400,Sales Operation Distribution,Lead,
+Leitung Vertrieb,59700,75100,96900,125100,157400,105000,Sales Operation Distribution,Lead,
+Leitung Vertriebsinnendienst,49300,62000,80000,103300,129900,86600,Sales Operation Distribution,Lead,
+Leitung Vertriebssteuerung/-controlling,54800,68900,89000,114800,144400,96300,Sales Operation Distribution,Lead,
+Sachbearbeitung Vertrieb,34200,40600,48400,57700,67600,50200,Sales Operation Distribution,Junior,
+Sachbearbeitung Vertriebscontrolling,35100,41800,49800,59400,69600,51700,Sales Operation Distribution,Junior,
+Spezialist Vertriebssteuerung/-controlling,47000,56700,69300,84600,101400,72800,Sales Operation Distribution,Mid,
+VerkaufsfÃ¶rderer/Merchandiser,39400,47200,57700,70500,84400,60600,Sales Operation Distribution,,
+Vertriebsingenieur,45300,54300,66300,81000,97000,69600,Sales Operation Distribution,,
+Vertriebsinnendienst (operativ),30800,36100,43000,51300,60100,44700,Sales Operation Distribution,,
+Expert E-Commerce,39800,47600,58200,71100,85100,61100,Sales Retail,,
+Leitung Verkaufsniederlassung/GeschÃ¤ftsstelle,54700,68900,88900,114700,144200,96200,Sales Retail,Lead,
+Leitung E-Commerce,54200,68200,87900,113500,142800,95200,Sales Retail,Lead,
+Storemanager/Filialleiter,30500,38400,49600,63900,80400,53600,Sales Retail,Senior,
+Verkaufskraft,23200,27600,32900,39200,46000,34200,Sales Retail,,
+Warenhausleitung,36400,45800,59100,76300,96000,64000,Sales Retail,Lead,
+Bilanzbuchhalter,32700,39400,47800,57600,68100,49900,Finance,Junior,
+Bilanzbuchhalter,34300,40600,48200,57000,66300,49900,Finance,Junior,BW
+Bilanzbuchhalter,35400,41900,49800,58900,68400,51500,Finance,Junior,BY
+Bilanzbuchhalter,33100,39200,46600,55100,64000,48200,Finance,Junior,BE
+Bilanzbuchhalter,32500,37500,43500,51500,59800,45000,Finance,Junior,BB
+Bilanzbuchhalter,32900,38900,46300,54800,63700,47900,Finance,Junior,HB
+Bilanzbuchhalter,34800,41200,49000,57900,67300,50700,Finance,Junior,HH
+Bilanzbuchhalter,34800,41100,48900,57800,67200,50600,Finance,Junior,HE
+Bilanzbuchhalter,32500,37100,42600,50300,58500,44000,Finance,Junior,MV
+Bilanzbuchhalter,34300,40600,48200,57000,66300,49900,Finance,Junior,NI
+Bilanzbuchhalter,34900,41300,49100,58000,67500,50800,Finance,Junior,NW
+Bilanzbuchhalter,33900,40100,47600,56300,65500,49300,Finance,Junior,RP
+Bilanzbuchhalter,33200,39300,46800,55300,64300,48400,Finance,Junior,SL
+Bilanzbuchhalter,32400,36600,41300,48800,56800,42700,Finance,Junior,SN
+Bilanzbuchhalter,32400,37000,42200,50000,58100,43700,Finance,Junior,ST
+Bilanzbuchhalter,34200,40500,48100,56900,66200,49800,Finance,Junior,SH
+Bilanzbuchhalter,32500,37700,44000,52000,60500,45500,Finance,Junior,TH
+Bilanzbuchhalter,39600,47600,57700,69900,83100,60300,Finance,Mid,
+Bilanzbuchhalter,41600,49000,58200,69200,80900,60400,Finance,Mid,BW
+Bilanzbuchhalter,43000,50500,60100,71400,83500,62300,Finance,Mid,BY
+Bilanzbuchhalter,40100,47200,56100,66700,78000,58200,Finance,Mid,BE
+Bilanzbuchhalter,39200,45000,52400,62200,72700,54300,Finance,Mid,BB
+Bilanzbuchhalter,40000,47100,56000,66500,77700,58000,Finance,Mid,HB
+Bilanzbuchhalter,42300,49700,59100,70300,82200,61300,Finance,Mid,HH
+Bilanzbuchhalter,42100,49500,58900,70000,81800,61100,Finance,Mid,HE
+Bilanzbuchhalter,39100,44400,51200,60800,71100,53100,Finance,Mid,MV
+Bilanzbuchhalter,41600,49000,58200,69200,80900,60400,Finance,Mid,NI
+Bilanzbuchhalter,42300,49800,59200,70400,82300,61400,Finance,Mid,NW
+Bilanzbuchhalter,41200,48400,57600,68400,80000,59700,Finance,Mid,RP
+Bilanzbuchhalter,40400,47500,56400,67100,78400,58500,Finance,Mid,SL
+Bilanzbuchhalter,38900,43800,49900,59400,69400,51800,Finance,Mid,SN
+Bilanzbuchhalter,39100,44400,51100,60700,70900,53000,Finance,Mid,ST
+Bilanzbuchhalter,41300,48600,57800,68700,80300,60000,Finance,Mid,SH
+Bilanzbuchhalter,39200,45300,52900,62900,73500,54900,Finance,Mid,TH
+Bilanzbuchhalter,46600,55700,67700,82400,98400,71000,Finance,Senior,
+Bilanzbuchhalter,48800,57200,68300,81500,95500,71000,Finance,Senior,BW
+Bilanzbuchhalter,50400,59100,70600,84200,98700,73300,Finance,Senior,BY
+Bilanzbuchhalter,47200,55300,66000,78700,92300,68500,Finance,Senior,BE
+Bilanzbuchhalter,45800,52700,61700,73600,86300,64100,Finance,Senior,BB
+Bilanzbuchhalter,47000,55100,65700,78400,91900,68300,Finance,Senior,HB
+Bilanzbuchhalter,49700,58300,69500,83000,97300,72200,Finance,Senior,HH
+Bilanzbuchhalter,49500,58000,69200,82600,96800,71900,Finance,Senior,HE
+Bilanzbuchhalter,45500,51900,59900,71500,83900,62300,Finance,Senior,MV
+Controller,51800,61900,75300,91600,109300,78900,Finance,Senior,
+Controller,54300,63600,75900,90600,106200,78900,Finance,Senior,BW
+Controller,52400,61400,73300,87500,102600,76200,Finance,Senior,BE
+Controller,52200,61200,73000,87100,102200,75900,Finance,Senior,HB
+Controller,55000,64500,76900,91800,107600,79900,Finance,Senior,HE
+Controller,54400,63800,76100,90800,106500,79100,Finance,Senior,NI
+Controller,51200,57500,65300,77900,91300,67800,Finance,Senior,SN
+Controller,53800,63000,75200,89800,105200,78100,Finance,Senior,RP
+Controller,54100,63400,75600,90200,105800,78600,Finance,Senior,SH
+Controller,51500,59200,69000,82400,96600,71700,Finance,Senior,TH
+Controller,51800,61900,75300,91600,109300,78900,Finance,Senior,
+Controller,44400,52800,64000,77600,92200,66900,Finance,Mid,
+Controller,46500,54300,64600,76800,89700,67000,Finance,Mid,BW
+Controller,48000,56100,66700,79300,92600,69100,Finance,Mid,BY
+Controller,44800,52400,62300,74100,86500,64600,Finance,Mid,BE
+Controller,43500,49900,58100,69100,80700,60300,Finance,Mid,BB
+Controller,44700,52200,62100,73800,86300,64400,Finance,Mid,HB
+Controller,47200,55200,65600,78000,91200,68100,Finance,Mid,HH
+Controller,47000,55000,65300,77700,90800,67800,Finance,Mid,HE
+Controller,44400,52800,64000,77600,92200,66900,Finance,Mid,
+Controller,35700,42400,51100,61600,72800,53300,Finance,Junior,
+Controller,35600,40600,47000,55600,64700,48700,Finance,Junior,TH
+Controller,37400,43500,51500,60900,70800,53300,Finance,Junior,SH
+Controller,35500,39800,45200,53400,62100,46800,Finance,Junior,ST
+Controller,35500,39400,44200,52200,60700,45700,Finance,Junior,SN
+Controller,36300,42300,50000,59100,68800,51800,Finance,Junior,SL
+Controller,37000,43100,50900,60200,70100,52700,Finance,Junior,RP
+Controller,38100,44400,52500,62100,72200,54300,Finance,Junior,NW
+Controller,37500,43600,51600,61000,70900,53400,Finance,Junior,NI
+Controller,35600,40000,45500,53800,62600,47100,Finance,Junior,MV
+Riskmanager,58100,69300,84300,102600,122400,88400,Finance,Senior,
+Riskmanager,60500,71000,84700,101000,118500,88000,Finance,Senior,SH
+Riskmanager,61500,66800,73100,87200,102300,76000,Finance,Senior,SN
+Riskmanager,60200,70600,84200,100500,117800,87500,Finance,Senior,RP
+Riskmanager,60900,71400,85200,101700,119300,88600,Finance,Senior,NI
+Riskmanager,61600,72200,86100,102800,120500,89500,Finance,Senior,HE
+Riskmanager,58100,69300,84300,102600,122400,88400,Finance,Senior,
+Riskmanager,50700,60300,73100,88600,105400,76500,Finance,Mid,
+Riskmanager,53700,62800,74700,88800,103700,77400,Finance,Mid,HE
+Riskmanager,52600,58100,64900,77100,90100,67300,Finance,Mid,MV
+Riskmanager,53100,62100,73800,87700,102500,76600,Finance,Mid,NI
+Riskmanager,54000,63200,75100,89300,104300,77900,Finance,Mid,NW
+Riskmanager,52500,61400,73000,86800,101400,75700,Finance,Mid,RP
+Riskmanager,53100,62100,73800,87700,102500,76500,Finance,Mid,BW
+Riskmanager,41100,48300,57100,67600,78600,59100,Finance,Junior,BW
+Riskmanager,39200,47000,56600,68200,80700,59100,Finance,Junior,
+Riskmanager,39700,46600,55200,65200,75900,57100,Finance,Junior,BE
+Riskmanager,40100,45200,51500,61000,70900,53300,Finance,Junior,BB
+Riskmanager,39500,46400,54900,64900,75400,56800,Finance,Junior,HB
+Riskmanager,41700,49000,58000,68600,79700,60000,Finance,Junior,HH
+Riskmanager,41800,49200,58100,68700,79900,60200,Finance,Junior,NW
+Backend Entwickler,45400,55200,67500,82200,98000,70800,Information Technology IT,Senior,
+Backend Entwickler,47700,56900,68100,81200,95200,70700,Information Technology IT,Senior,BW
+Backend Entwickler,49200,58800,70300,83900,98400,73100,Information Technology IT,Senior,BY
+Backend Entwickler,46000,54900,65700,78400,92000,68300,Information Technology IT,Senior,BE
+Backend Entwickler,45500,52900,61500,73400,86000,63900,Information Technology IT,Senior,BB
+Backend Entwickler,45900,54700,65500,78100,91600,68000,Information Technology IT,Senior,HB
+Backend Entwickler,48500,57900,69300,82700,97000,72000,Information Technology IT,Senior,HH
+Backend Entwickler,48300,57600,69000,82300,96500,71600,Information Technology IT,Senior,HE
+Backend Entwickler,45500,52100,59700,71300,83600,62100,Information Technology IT,Senior,MV
+Backend Entwickler,47800,57000,68300,81400,95500,70900,Information Technology IT,Senior,NI
+Backend Entwickler,48500,57900,69200,82600,96900,71900,Information Technology IT,Senior,NW
+Backend Entwickler,47200,56400,67400,80500,94400,70100,Information Technology IT,Senior,RP
+Backend Entwickler,46500,55500,66400,79300,92900,69000,Information Technology IT,Senior,SL
+Backend Entwickler,45500,51600,58500,69900,81900,60800,Information Technology IT,Senior,SN
+Backend Entwickler,45500,52100,59700,71300,83500,62000,Information Technology IT,Senior,ST
+Backend Entwickler,47500,56700,67800,80900,94900,70400,Information Technology IT,Senior,SH
+Backend Entwickler,45500,53000,61900,73900,86600,64300,Information Technology IT,Senior,TH
+Backend Entwickler,45400,55200,67500,82200,98000,70800,Information Technology IT,Senior,
+Backend Entwickler,40400,49000,59800,72500,86200,62600,Information Technology IT,Mid,
+Backend Entwickler,42500,50500,60400,71800,83900,62600,Information Technology IT,Mid,BW
+Backend Entwickler,43800,52100,62300,74100,86600,64600,Information Technology IT,Mid,BY
+Backend Entwickler,40900,48700,58200,69200,80900,60400,Information Technology IT,Mid,BE
+Backend Entwickler,39900,46500,54300,64600,75400,56300,Information Technology IT,Mid,BB
+Backend Entwickler,40800,48500,58000,69000,80600,60200,Information Technology IT,Mid,HB
+Backend Entwickler,43100,51300,61300,72900,85200,63600,Information Technology IT,Mid,HH
+Backend Entwickler,43000,51100,61100,72600,84900,63400,Information Technology IT,Mid,HE
+Backend Entwickler,39800,45900,53100,63100,73700,55100,Information Technology IT,Mid,MV
+Backend Entwickler,42500,50500,60400,71800,83900,62600,Information Technology IT,Mid,NI
+Backend Entwickler,43200,51400,61400,73000,85300,63700,Information Technology IT,Mid,NW
+Backend Entwickler,42000,49900,59700,71000,83000,61900,Information Technology IT,Mid,RP
+Backend Entwickler,41200,49000,58500,69600,81300,60700,Information Technology IT,Mid,SL
+Backend Entwickler,39700,45300,51800,61600,71900,53700,Information Technology IT,Mid,SN
+Backend Entwickler,39800,45900,53000,63000,73600,54900,Information Technology IT,Mid,ST
+Backend Entwickler,42200,50100,60000,71300,83300,62200,Information Technology IT,Mid,SH
+Backend Entwickler,40000,46700,54900,65200,76200,56900,Information Technology IT,Mid,TH
+Backend Entwickler,40400,49000,59800,72500,86200,62600,Information Technology IT,Mid,
+Backend Entwickler,32600,39300,47800,57600,68100,49800,Information Technology IT,Junior,
+Backend Entwickler,34200,40500,48200,57000,66300,49900,Information Technology IT,Junior,BW
+Backend Entwickler,35300,41800,49800,58800,68400,51500,Information Technology IT,Junior,BY
+Backend Entwickler,33000,39100,46600,55000,64000,48200,Information Technology IT,Junior,BE
+Backend Entwickler,32400,37500,43500,51400,59800,45000,Information Technology IT,Junior,BB
+Backend Entwickler,32900,38800,46300,54700,63700,47900,Information Technology IT,Junior,HB
+Backend Entwickler,34700,41100,48900,57900,67300,50600,Information Technology IT,Junior,HH
+Backend Entwickler,34700,41000,48900,57800,67200,50600,Information Technology IT,Junior,HE
+Backend Entwickler,32400,37100,42500,50300,58500,44000,Information Technology IT,Junior,MV
+Backend Entwickler,34200,40500,48200,57000,66300,49900,Information Technology IT,Junior,NI
+Backend Entwickler,34800,41200,49100,58000,67500,50800,Information Technology IT,Junior,NW
+Backend Entwickler,33800,40000,47600,56300,65500,49300,Information Technology IT,Junior,RP
+Backend Entwickler,33200,39200,46700,55300,64300,48400,Information Technology IT,Junior,SL
+Backend Entwickler,32400,36500,41300,48800,56800,42700,Information Technology IT,Junior,SN
+Backend Entwickler,32400,36900,42200,49900,58100,43700,Information Technology IT,Junior,ST
+Backend Entwickler,34100,40400,48100,56900,66200,49800,Information Technology IT,Junior,SH
+Backend Entwickler,32500,37700,43900,52000,60400,45500,Information Technology IT,Junior,TH
+Data Scientist,54000,64400,78400,95400,113800,82200,Information Technology IT,Senior,
+Data Scientist,57200,67100,80100,95600,112000,83200,Information Technology IT,Senior,HE
+Data Scientist,53500,60500,69400,82800,97100,72100,Information Technology IT,Senior,MV
+Data Scientist,56700,66400,79300,94600,110900,82300,Information Technology IT,Senior,NI
+Data Scientist,56300,66000,78700,94000,110200,81800,Information Technology IT,Senior,SH
+Data Scientist,54600,64000,76300,91100,106800,79300,Information Technology IT,Senior,BE
+Data Scientist,54000,64400,78400,95400,113800,82200,Information Technology IT,Senior,
+Data Scientist,45800,54500,66100,80100,95200,69100,Information Technology IT,Mid,
+Data Scientist,48000,56100,66700,79300,92600,69200,Information Technology IT,Mid,BW
+Data Scientist,49500,57900,68800,81800,95600,71400,Information Technology IT,Mid,BY
+Data Scientist,46300,54100,64300,76500,89300,66700,Information Technology IT,Mid,BE
+Data Scientist,45500,51200,58500,69500,81300,60700,Information Technology IT,Mid,ST
+Data Scientist,47500,55500,65900,78400,91600,68400,Information Technology IT,Mid,RP
+Data Scientist,45800,54500,66100,80100,95200,69100,Information Technology IT,Mid,
+Data Scientist,37000,44100,53200,64000,75700,55500,Information Technology IT,Junior,
+Data Scientist,37000,41400,47000,55500,64600,48600,Information Technology IT,Junior,ST
+Data Scientist,38300,44800,53000,62600,72800,54800,Information Technology IT,Junior,RP
+Data Scientist,37000,41600,47300,56000,65100,49000,Information Technology IT,Junior,MV
+Data Scientist,37200,43600,51500,60900,70800,53300,Information Technology IT,Junior,HB
+Data Scientist,40000,46800,55400,65400,76000,57300,Information Technology IT,Junior,BY
+Data Scientist,39500,46200,54600,64500,75100,56500,Information Technology IT,Junior,NW
+IT Software Architekt,57300,68400,83200,101300,120800,87200,Information Technology IT,Senior,
+IT Software Architekt,60000,70300,83900,100100,117400,87200,Information Technology IT,Senior,BW
+IT Software Architekt,57400,65500,75800,90400,106000,78700,Information Technology IT,Senior,BB
+IT Software Architekt,60800,71200,85000,101400,118900,88300,Information Technology IT,Senior,HE
+IT Software Architekt,61000,71500,85400,101800,119400,88700,Information Technology IT,Senior,NW
+IT Software Architekt,57400,64000,72200,86100,100900,75000,Information Technology IT,Senior,SN
+IT Software Architekt,57400,65700,76300,91100,106800,79300,Information Technology IT,Senior,TH
+IT Software Architekt,57300,68400,83200,101300,120800,87200,Information Technology IT,Senior,
+IT Software Architekt,50000,59500,72100,87400,103900,75400,Information Technology IT,Mid,
+IT Software Architekt,53000,61900,73600,87600,102300,76400,Information Technology IT,Mid,HE
+IT Software Architekt,48900,55600,64000,76100,88900,66400,Information Technology IT,Mid,MV
+IT Software Architekt,52400,61200,72800,86500,101100,75500,Information Technology IT,Mid,NI
+IT Software Architekt,53300,62300,74100,88000,102900,76800,Information Technology IT,Mid,NW
+IT Software Architekt,51800,60500,72000,85600,100000,74700,Information Technology IT,Mid,RP
+IT Software Architekt,50800,59400,70600,83900,98100,73200,Information Technology IT,Mid,SL
+IT Software Architekt,50000,59500,72100,87400,103900,75400,Information Technology IT,Mid,
+IT Software Architekt,39000,46100,55500,66900,79100,57900,Information Technology IT,Junior,
+IT Software Architekt,40700,47400,56000,66200,77000,58000,Information Technology IT,Junior,BW
+IT Software Architekt,42000,48900,57800,68300,79500,59800,Information Technology IT,Junior,BY
+IT Software Architekt,39300,45700,54100,63900,74400,56000,Information Technology IT,Junior,BE
+IT Software Architekt,38700,43900,50500,59800,69500,52300,Information Technology IT,Junior,BB
+IT Software Architekt,39100,45500,53800,63600,73900,55600,Information Technology IT,Junior,HB
+IT Software Architekt,41300,48100,56800,67200,78200,58800,Information Technology IT,Junior,HH
+Redakteur/Content Manager,45300,54100,65800,80000,95500,68900,Communication Public Relations,Senior,
+Redakteur/Content Manager,45800,53700,64100,76400,89600,66500,Communication Public Relations,Senior,BE
+Redakteur/Content Manager,48300,56600,67500,80600,94500,70200,Communication Public Relations,Senior,HH
+Redakteur/Content Manager,47500,55700,66500,79400,93000,69100,Communication Public Relations,Senior,NI
+Redakteur/Content Manager,46300,54200,64700,77200,90600,67200,Communication Public Relations,Senior,SL
+Redakteur/Content Manager,47200,55400,66100,78800,92400,68600,Communication Public Relations,Senior,SH
+Redakteur/Content Manager,49000,57400,68500,81800,95900,71200,Communication Public Relations,Senior,BY
+Redakteur/Content Manager,45600,53500,63800,76100,89300,66300,Communication Public Relations,Senior,HB
+Redakteur/Content Manager,45300,54100,65800,80000,95500,68900,Communication Public Relations,Senior,
+Redakteur/Content Manager,39000,46400,56200,68100,81000,58800,Communication Public Relations,Mid,
+Redakteur/Content Manager,42100,49200,58500,69600,81300,60700,Communication Public Relations,Mid,BY
+Redakteur/Content Manager,39200,45900,54500,64800,75800,56600,Communication Public Relations,Mid,HB
+Redakteur/Content Manager,38000,43200,49900,59300,69300,51700,Communication Public Relations,Mid,MV
+Redakteur/Content Manager,40400,47200,56100,66700,77900,58200,Communication Public Relations,Mid,RP
+Redakteur/Content Manager,38200,44000,51500,61300,71600,53500,Communication Public Relations,Mid,TH
+Redakteur/Content Manager,37900,43100,49800,59200,69100,51600,Communication Public Relations,Mid,ST
+Redakteur/Content Manager,37700,42600,48600,57800,67600,50500,Communication Public Relations,Mid,SN
+Redakteur/Content Manager,39000,46400,56200,68100,81000,58800,Communication Public Relations,Mid,
+Redakteur/Content Manager,33300,39600,47700,57400,67900,49700,Communication Public Relations,Junior,
+Redakteur/Content Manager,34900,40700,48100,56900,66100,49800,Communication Public Relations,Junior,BW
+Redakteur/Content Manager,32800,37400,43400,51300,59700,44900,Communication Public Relations,Junior,BB
+Redakteur/Content Manager,35400,41200,48700,57600,67000,50500,Communication Public Relations,Junior,HE
+Redakteur/Content Manager,35500,41400,48900,57900,67300,50700,Communication Public Relations,Junior,NW
+Redakteur/Content Manager,32400,36300,41200,48700,56600,42600,Communication Public Relations,Junior,SN
+Redakteur/Content Manager,32800,37700,43800,51800,60300,45400,Communication Public Relations,Junior,TH
+Redakteur/Content Manager,36000,42000,49600,58700,68300,51400,Communication Public Relations,Junior,BY
+Redakteur/Content Manager,33500,39100,46200,54600,63500,47800,Communication Public Relations,Junior,HB
+Redakteur/Content Manager,33700,39300,46400,54900,63900,48100,Communication Public Relations,Junior,BE
+Referent Unternehmenskommunikation/PR,48300,57700,70200,85400,101900,73500,Communication Public Relations,Senior,
+Referent Unternehmenskommunikation/PR,47500,54700,63900,76300,89400,66400,Communication Public Relations,Senior,BB
+Referent Unternehmenskommunikation/PR,48600,57000,68100,81200,95200,70700,Communication Public Relations,Senior,HB
+Referent Unternehmenskommunikation/PR,51500,60400,72000,86000,100800,74800,Communication Public Relations,Senior,HH
+Referent Unternehmenskommunikation/PR,51200,60100,71700,85500,100300,74500,Communication Public Relations,Senior,HE
+Referent Unternehmenskommunikation/PR,47300,53800,62100,74100,86900,64500,Communication Public Relations,Senior,MV
+Referent Unternehmenskommunikation/PR,50700,59500,70900,84600,99200,73700,Communication Public Relations,Senior,NI
+Referent Unternehmenskommunikation/PR,51400,60300,72000,85900,100700,74800,Communication Public Relations,Senior,NW
+Referent Unternehmenskommunikation/PR,50100,58700,70100,83600,98100,72800,Communication Public Relations,Senior,RP
+Referent Unternehmenskommunikation/PR,49400,57900,69000,82400,96600,71700,Communication Public Relations,Senior,SL
+Referent Unternehmenskommunikation/PR,48300,57700,70200,85400,101900,73500,Communication Public Relations,Senior,
+Referent Unternehmenskommunikation/PR,41300,49000,59400,72100,85700,62200,Communication Public Relations,Mid,
+Referent Unternehmenskommunikation/PR,44600,52100,61900,73600,86100,64200,Communication Public Relations,Mid,BY
+Referent Unternehmenskommunikation/PR,41500,48500,57700,68600,80100,59800,Communication Public Relations,Mid,HB
+Referent Unternehmenskommunikation/PR,41100,46300,52700,62700,73300,54700,Communication Public Relations,Mid,MV
+Referent Unternehmenskommunikation/PR,42700,49900,59300,70600,82500,61600,Communication Public Relations,Mid,RP
+Referent Unternehmenskommunikation/PR,41100,46200,52600,62600,73100,54600,Communication Public Relations,Mid,ST
+Referent Unternehmenskommunikation/PR,43900,51300,61000,72500,84700,63200,Communication Public Relations,Mid,HH
+Referent Unternehmenskommunikation/PR,43900,51300,61000,72600,84800,63300,Communication Public Relations,Mid,NW
+Referent Unternehmenskommunikation/PR,41300,49000,59400,72100,85700,62200,Communication Public Relations,Mid,
+Referent Unternehmenskommunikation/PR,33800,40000,48200,58100,68700,50300,Communication Public Relations,Junior,
+Referent Unternehmenskommunikation/PR,34400,39900,47000,55600,64600,48600,Communication Public Relations,Junior,BE
+Referent Unternehmenskommunikation/PR,35900,41800,49400,58400,67900,51100,Communication Public Relations,Junior,HH
+Referent Unternehmenskommunikation/PR,35400,41200,48700,57600,66900,50400,Communication Public Relations,Junior,NI
+Referent Unternehmenskommunikation/PR,34300,39900,47200,55800,64900,48800,Communication Public Relations,Junior,SL
+Referent Unternehmenskommunikation/PR,35500,39500,44400,52500,61000,45900,Communication Public Relations,Junior,TH
+Referent Unternehmenskommunikation/PR,35300,41100,48600,57400,66800,50300,Communication Public Relations,Junior,SH
+Referent Unternehmenskommunikation/PR,36900,39100,41700,49300,57300,43100,Communication Public Relations,Junior,SN
+Backend Entwickler,45400,55200,67500,82200,98000,70800,Information Technology IT,Senior,
+Backend Entwickler,47700,56900,68100,81200,95200,70700,Information Technology IT,Senior,BW
+Backend Entwickler,49200,58800,70300,83900,98400,73100,Information Technology IT,Senior,BY
+Backend Entwickler,46000,54900,65700,78400,92000,68300,Information Technology IT,Senior,BE
+Backend Entwickler,45500,52900,61500,73400,86000,63900,Information Technology IT,Senior,BB
+Backend Entwickler,45900,54700,65500,78100,91600,68000,Information Technology IT,Senior,HB
+Backend Entwickler,48500,57900,69300,82700,97000,72000,Information Technology IT,Senior,HH
+Backend Entwickler,48300,57600,69000,82300,96500,71600,Information Technology IT,Senior,HE
+Backend Entwickler,45500,52100,59700,71300,83600,62100,Information Technology IT,Senior,MV
+Backend Entwickler,47800,57000,68300,81400,95500,70900,Information Technology IT,Senior,NI
+Backend Entwickler,48500,57900,69200,82600,96900,71900,Information Technology IT,Senior,NW
+Backend Entwickler,47200,56400,67400,80500,94400,70100,Information Technology IT,Senior,RP
+Backend Entwickler,46500,55500,66400,79300,92900,69000,Information Technology IT,Senior,SL
+Backend Entwickler,45500,51600,58500,69900,81900,60800,Information Technology IT,Senior,SN
+Backend Entwickler,45500,52100,59700,71300,83500,62000,Information Technology IT,Senior,ST
+Backend Entwickler,47500,56700,67800,80900,94900,70400,Information Technology IT,Senior,SH
+Backend Entwickler,45500,53000,61900,73900,86600,64300,Information Technology IT,Senior,TH
+Backend Entwickler,45400,55200,67500,82200,98000,70800,Information Technology IT,Senior,
+Backend Entwickler,40400,49000,59800,72500,86200,62600,Information Technology IT,Mid,
+Backend Entwickler,42500,50500,60400,71800,83900,62600,Information Technology IT,Mid,BW
+Backend Entwickler,43800,52100,62300,74100,86600,64600,Information Technology IT,Mid,BY
+Backend Entwickler,40900,48700,58200,69200,80900,60400,Information Technology IT,Mid,BE
+Backend Entwickler,39900,46500,54300,64600,75400,56300,Information Technology IT,Mid,BB
+Backend Entwickler,40800,48500,58000,69000,80600,60200,Information Technology IT,Mid,HB
+Backend Entwickler,43100,51300,61300,72900,85200,63600,Information Technology IT,Mid,HH
+Backend Entwickler,43000,51100,61100,72600,84900,63400,Information Technology IT,Mid,HE
+Backend Entwickler,39800,45900,53100,63100,73700,55100,Information Technology IT,Mid,MV
+Backend Entwickler,42500,50500,60400,71800,83900,62600,Information Technology IT,Mid,NI
+Backend Entwickler,43200,51400,61400,73000,85300,63700,Information Technology IT,Mid,NW
+Backend Entwickler,42000,49900,59700,71000,83000,61900,Information Technology IT,Mid,RP
+Backend Entwickler,41200,49000,58500,69600,81300,60700,Information Technology IT,Mid,SL
+Backend Entwickler,39700,45300,51800,61600,71900,53700,Information Technology IT,Mid,SN
+Backend Entwickler,39800,45900,53000,63000,73600,54900,Information Technology IT,Mid,ST
+Backend Entwickler,42200,50100,60000,71300,83300,62200,Information Technology IT,Mid,SH
+Backend Entwickler,40000,46700,54900,65200,76200,56900,Information Technology IT,Mid,TH
+Backend Entwickler,40400,49000,59800,72500,86200,62600,Information Technology IT,Mid,
+Backend Entwickler,32600,39300,47800,57600,68100,49800,Information Technology IT,Junior,
+Backend Entwickler,34200,40500,48200,57000,66300,49900,Information Technology IT,Junior,BW
+Backend Entwickler,35300,41800,49800,58800,68400,51500,Information Technology IT,Junior,BY
+Backend Entwickler,33000,39100,46600,55000,64000,48200,Information Technology IT,Junior,BE
+Backend Entwickler,32400,37500,43500,51400,59800,45000,Information Technology IT,Junior,BB
+Backend Entwickler,32900,38800,46300,54700,63700,47900,Information Technology IT,Junior,HB
+Backend Entwickler,34700,41100,48900,57900,67300,50600,Information Technology IT,Junior,HH
+Backend Entwickler,34700,41000,48900,57800,67200,50600,Information Technology IT,Junior,HE
+Backend Entwickler,32400,37100,42500,50300,58500,44000,Information Technology IT,Junior,MV
+Backend Entwickler,34200,40500,48200,57000,66300,49900,Information Technology IT,Junior,NI
+Backend Entwickler,34800,41200,49100,58000,67500,50800,Information Technology IT,Junior,NW
+Backend Entwickler,33800,40000,47600,56300,65500,49300,Information Technology IT,Junior,RP
+Backend Entwickler,33200,39200,46700,55300,64300,48400,Information Technology IT,Junior,SL
+Backend Entwickler,32400,36500,41300,48800,56800,42700,Information Technology IT,Junior,SN
+Backend Entwickler,32400,36900,42200,49900,58100,43700,Information Technology IT,Junior,ST
+Backend Entwickler,34100,40400,48100,56900,66200,49800,Information Technology IT,Junior,SH
+Backend Entwickler,32500,37700,43900,52000,60400,45500,Information Technology IT,Junior,TH
+Data Scientist,54000,64400,78400,95400,113800,82200,Information Technology IT,Senior,
+Data Scientist,57200,67100,80100,95600,112000,83200,Information Technology IT,Senior,HE
+Data Scientist,53500,60500,69400,82800,97100,72100,Information Technology IT,Senior,MV
+Data Scientist,56700,66400,79300,94600,110900,82300,Information Technology IT,Senior,NI
+Data Scientist,56300,66000,78700,94000,110200,81800,Information Technology IT,Senior,SH
+Data Scientist,54600,64000,76300,91100,106800,79300,Information Technology IT,Senior,BE
+Data Scientist,54000,64400,78400,95400,113800,82200,Information Technology IT,Senior,
+Data Scientist,45800,54500,66100,80100,95200,69100,Information Technology IT,Mid,
+Data Scientist,48000,56100,66700,79300,92600,69200,Information Technology IT,Mid,BW
+Data Scientist,49500,57900,68800,81800,95600,71400,Information Technology IT,Mid,BY
+Data Scientist,46300,54100,64300,76500,89300,66700,Information Technology IT,Mid,BE
+Data Scientist,45500,51200,58500,69500,81300,60700,Information Technology IT,Mid,ST
+Data Scientist,47500,55500,65900,78400,91600,68400,Information Technology IT,Mid,RP
+Data Scientist,45800,54500,66100,80100,95200,69100,Information Technology IT,Mid,
+Data Scientist,37000,44100,53200,64000,75700,55500,Information Technology IT,Junior,
+Data Scientist,37000,41400,47000,55500,64600,48600,Information Technology IT,Junior,ST
+Data Scientist,38300,44800,53000,62600,72800,54800,Information Technology IT,Junior,RP
+Data Scientist,37000,41600,47300,56000,65100,49000,Information Technology IT,Junior,MV
+Data Scientist,37200,43600,51500,60900,70800,53300,Information Technology IT,Junior,HB
+Data Scientist,40000,46800,55400,65400,76000,57300,Information Technology IT,Junior,BY
+Data Scientist,39500,46200,54600,64500,75100,56500,Information Technology IT,Junior,NW
+IT Software Architekt,57300,68400,83200,101300,120800,87200,Information Technology IT,Senior,
+IT Software Architekt,60000,70300,83900,100100,117400,87200,Information Technology IT,Senior,BW
+IT Software Architekt,57400,65500,75800,90400,106000,78700,Information Technology IT,Senior,BB
+IT Software Architekt,60800,71200,85000,101400,118900,88300,Information Technology IT,Senior,HE
+IT Software Architekt,61000,71500,85400,101800,119400,88700,Information Technology IT,Senior,NW
+IT Software Architekt,57400,64000,72200,86100,100900,75000,Information Technology IT,Senior,SN
+IT Software Architekt,57400,65700,76300,91100,106800,79300,Information Technology IT,Senior,TH
+IT Software Architekt,57300,68400,83200,101300,120800,87200,Information Technology IT,Senior,
+IT Software Architekt,50000,59500,72100,87400,103900,75400,Information Technology IT,Mid,
+IT Software Architekt,53000,61900,73600,87600,102300,76400,Information Technology IT,Mid,HE
+IT Software Architekt,48900,55600,64000,76100,88900,66400,Information Technology IT,Mid,MV
+IT Software Architekt,52400,61200,72800,86500,101100,75500,Information Technology IT,Mid,NI
+IT Software Architekt,53300,62300,74100,88000,102900,76800,Information Technology IT,Mid,NW
+IT Software Architekt,51800,60500,72000,85600,100000,74700,Information Technology IT,Mid,RP
+IT Software Architekt,50800,59400,70600,83900,98100,73200,Information Technology IT,Mid,SL
+IT Software Architekt,50000,59500,72100,87400,103900,75400,Information Technology IT,Mid,
+IT Software Architekt,39000,46100,55500,66900,79100,57900,Information Technology IT,Junior,
+IT Software Architekt,40700,47400,56000,66200,77000,58000,Information Technology IT,Junior,BW
+IT Software Architekt,42000,48900,57800,68300,79500,59800,Information Technology IT,Junior,BY
+IT Software Architekt,39300,45700,54100,63900,74400,56000,Information Technology IT,Junior,BE
+IT Software Architekt,38700,43900,50500,59800,69500,52300,Information Technology IT,Junior,BB
+IT Software Architekt,39100,45500,53800,63600,73900,55600,Information Technology IT,Junior,HB
+IT Software Architekt,41300,48100,56800,67200,78200,58800,Information Technology IT,Junior,HH
+Redakteur/Content Manager,45300,54100,65800,80000,95500,68900,Communication Public Relations,Senior,
+Redakteur/Content Manager,45800,53700,64100,76400,89600,66500,Communication Public Relations,Senior,BE
+Redakteur/Content Manager,48300,56600,67500,80600,94500,70200,Communication Public Relations,Senior,HH
+Redakteur/Content Manager,47500,55700,66500,79400,93000,69100,Communication Public Relations,Senior,NI
+Redakteur/Content Manager,46300,54200,64700,77200,90600,67200,Communication Public Relations,Senior,SL
+Redakteur/Content Manager,47200,55400,66100,78800,92400,68600,Communication Public Relations,Senior,SH
+Redakteur/Content Manager,49000,57400,68500,81800,95900,71200,Communication Public Relations,Senior,BY
+Redakteur/Content Manager,45600,53500,63800,76100,89300,66300,Communication Public Relations,Senior,HB
+Redakteur/Content Manager,45300,54100,65800,80000,95500,68900,Communication Public Relations,Senior,
+Redakteur/Content Manager,39000,46400,56200,68100,81000,58800,Communication Public Relations,Mid,
+Redakteur/Content Manager,42100,49200,58500,69600,81300,60700,Communication Public Relations,Mid,BY
+Redakteur/Content Manager,39200,45900,54500,64800,75800,56600,Communication Public Relations,Mid,HB
+Redakteur/Content Manager,38000,43200,49900,59300,69300,51700,Communication Public Relations,Mid,MV
+Redakteur/Content Manager,40400,47200,56100,66700,77900,58200,Communication Public Relations,Mid,RP
+Redakteur/Content Manager,38200,44000,51500,61300,71600,53500,Communication Public Relations,Mid,TH
+Redakteur/Content Manager,37900,43100,49800,59200,69100,51600,Communication Public Relations,Mid,ST
+Redakteur/Content Manager,37700,42600,48600,57800,67600,50500,Communication Public Relations,Mid,SN
+Redakteur/Content Manager,39000,46400,56200,68100,81000,58800,Communication Public Relations,Mid,
+Redakteur/Content Manager,33300,39600,47700,57400,67900,49700,Communication Public Relations,Junior,
+Redakteur/Content Manager,34900,40700,48100,56900,66100,49800,Communication Public Relations,Junior,BW
+Redakteur/Content Manager,32800,37400,43400,51300,59700,44900,Communication Public Relations,Junior,BB
+Redakteur/Content Manager,35400,41200,48700,57600,67000,50500,Communication Public Relations,Junior,HE
+Redakteur/Content Manager,35500,41400,48900,57900,67300,50700,Communication Public Relations,Junior,NW
+Redakteur/Content Manager,32400,36300,41200,48700,56600,42600,Communication Public Relations,Junior,SN
+Redakteur/Content Manager,32800,37700,43800,51800,60300,45400,Communication Public Relations,Junior,TH
+Redakteur/Content Manager,36000,42000,49600,58700,68300,51400,Communication Public Relations,Junior,BY
+Redakteur/Content Manager,33500,39100,46200,54600,63500,47800,Communication Public Relations,Junior,HB
+Redakteur/Content Manager,33700,39300,46400,54900,63900,48100,Communication Public Relations,Junior,BE
+Referent Unternehmenskommunikation/PR,48300,57700,70200,85400,101900,73500,Communication Public Relations,Senior,
+Referent Unternehmenskommunikation/PR,47500,54700,63900,76300,89400,66400,Communication Public Relations,Senior,BB
+Referent Unternehmenskommunikation/PR,48600,57000,68100,81200,95200,70700,Communication Public Relations,Senior,HB
+Referent Unternehmenskommunikation/PR,51500,60400,72000,86000,100800,74800,Communication Public Relations,Senior,HH
+Referent Unternehmenskommunikation/PR,51200,60100,71700,85500,100300,74500,Communication Public Relations,Senior,HE
+Referent Unternehmenskommunikation/PR,47300,53800,62100,74100,86900,64500,Communication Public Relations,Senior,MV
+Referent Unternehmenskommunikation/PR,50700,59500,70900,84600,99200,73700,Communication Public Relations,Senior,NI
+Referent Unternehmenskommunikation/PR,51400,60300,72000,85900,100700,74800,Communication Public Relations,Senior,NW
+Referent Unternehmenskommunikation/PR,50100,58700,70100,83600,98100,72800,Communication Public Relations,Senior,RP
+Referent Unternehmenskommunikation/PR,49400,57900,69000,82400,96600,71700,Communication Public Relations,Senior,SL
+Referent Unternehmenskommunikation/PR,48300,57700,70200,85400,101900,73500,Communication Public Relations,Senior,
+Referent Unternehmenskommunikation/PR,41300,49000,59400,72100,85700,62200,Communication Public Relations,Mid,
+Referent Unternehmenskommunikation/PR,44600,52100,61900,73600,86100,64200,Communication Public Relations,Mid,BY
+Referent Unternehmenskommunikation/PR,41500,48500,57700,68600,80100,59800,Communication Public Relations,Mid,HB
+Referent Unternehmenskommunikation/PR,41100,46300,52700,62700,73300,54700,Communication Public Relations,Mid,MV
+Referent Unternehmenskommunikation/PR,42700,49900,59300,70600,82500,61600,Communication Public Relations,Mid,RP
+Referent Unternehmenskommunikation/PR,41100,46200,52600,62600,73100,54600,Communication Public Relations,Mid,ST
+Referent Unternehmenskommunikation/PR,43900,51300,61000,72500,84700,63200,Communication Public Relations,Mid,HH
+Referent Unternehmenskommunikation/PR,43900,51300,61000,72600,84800,63300,Communication Public Relations,Mid,NW
+Referent Unternehmenskommunikation/PR,41300,49000,59400,72100,85700,62200,Communication Public Relations,Mid,
+Referent Unternehmenskommunikation/PR,33800,40000,48200,58100,68700,50300,Communication Public Relations,Junior,
+Referent Unternehmenskommunikation/PR,34400,39900,47000,55600,64600,48600,Communication Public Relations,Junior,BE
+Referent Unternehmenskommunikation/PR,35900,41800,49400,58400,67900,51100,Communication Public Relations,Junior,HH
+Referent Unternehmenskommunikation/PR,35400,41200,48700,57600,66900,50400,Communication Public Relations,Junior,NI
+Referent Unternehmenskommunikation/PR,34300,39900,47200,55800,64900,48800,Communication Public Relations,Junior,SL
+Referent Unternehmenskommunikation/PR,35500,39500,44400,52500,61000,45900,Communication Public Relations,Junior,TH
+Referent Unternehmenskommunikation/PR,35300,41100,48600,57400,66800,50300,Communication Public Relations,Junior,SH
+Referent Unternehmenskommunikation/PR,36900,39100,41700,49300,57300,43100,Communication Public Relations,Junior,SN
+Spezialist Investor Relations,61200,73000,88800,108100,129000,93100,Communication Public Relations,Senior,
+Spezialist Investor Relations,59400,69000,81500,97200,113900,84600,Communication Public Relations,Senior,TH
+Spezialist Investor Relations,58700,67400,78600,93700,109900,81600,Communication Public Relations,Senior,ST
+Spezialist Investor Relations,63800,74800,89200,106400,124800,92700,Communication Public Relations,Senior,SH
+Spezialist Investor Relations,58400,66600,77000,91900,107700,80000,Communication Public Relations,Senior,SN
+Spezialist Investor Relations,62500,73200,87400,104300,122300,90800,Communication Public Relations,Senior,SL
+Spezialist Investor Relations,63400,74400,88700,105900,124100,92200,Communication Public Relations,Senior,RP
+Spezialist Investor Relations,65100,76300,91100,108700,127400,94600,Communication Public Relations,Senior,NW
+Spezialist Investor Relations,61600,72200,86100,102800,120500,89500,Communication Public Relations,Senior,HB
+Spezialist Investor Relations,50800,60400,73200,88700,105500,76600,Communication Public Relations,Mid,
+Spezialist Investor Relations,51600,60300,71600,85200,99500,74300,Communication Public Relations,Mid,SL
+Spezialist Investor Relations,61200,73000,88800,108100,129000,93100,Communication Public Relations,Senior,
+Spezialist Investor Relations,52600,61500,73100,86900,101500,75800,Communication Public Relations,Mid,RP
+Spezialist Investor Relations,54100,63200,75200,89400,104400,78000,Communication Public Relations,Mid,NW
+Spezialist Investor Relations,51300,59900,71300,84700,99000,73900,Communication Public Relations,Mid,BE
+Spezialist Investor Relations,54000,63100,75100,89200,104300,77900,Communication Public Relations,Mid,HH
+Spezialist Investor Relations,53200,62100,73900,87900,102700,76600,Communication Public Relations,Mid,NI
+Spezialist Investor Relations,41400,49600,59800,72100,85200,62400,Communication Public Relations,Junior,
+Spezialist Investor Relations,50800,60400,73200,88700,105500,76600,Communication Public Relations,Mid,
+Spezialist Investor Relations,43500,51000,60400,71400,83000,62500,Communication Public Relations,Junior,BW
+Spezialist Investor Relations,44800,52700,62300,73200,84600,64300,Communication Public Relations,Junior,BY
+Spezialist Investor Relations,41900,49300,58300,68900,80100,60300,Communication Public Relations,Junior,BE
+Spezialist Investor Relations,41700,49000,57900,68500,79700,60000,Communication Public Relations,Junior,HB
+Spezialist Investor Relations,39800,46400,54500,64400,74900,56400,Communication Public Relations,Junior,BB
+Spezialist Investor Relations,44100,51800,61300,72400,84200,63400,Communication Public Relations,Junior,HH
+Spezialist Investor Relations,39500,45600,53200,63000,73200,55100,Communication Public Relations,Junior,MV
+Spezialist Investor Relations,44000,51700,61200,72300,84100,63300,Communication Public Relations,Junior,HE
+Spezialist Investor Relations,44200,51900,61400,72600,84400,63600,Communication Public Relations,Junior,NW
+Leitung Strategie,68600,82900,102300,126100,152400,107900,Business Planning Development,Lead,BW
+Leitung Strategie,71700,86600,106800,131800,159200,112700,Business Planning Development,Lead,BY
+Leitung Strategie,66900,80800,99700,123000,148600,105200,Business Planning Development,Lead,BE
+Leitung Strategie,64300,77000,94100,116100,140200,99300,Business Planning Development,Lead,BB
+Leitung Strategie,67900,82000,101100,124700,150700,106700,Business Planning Development,Lead,HB
+Leitung Strategie,71300,86100,106200,131000,158300,112100,Business Planning Development,Lead,HH
+Leitung Strategie,70300,84900,104800,129200,156100,110600,Business Planning Development,Lead,HE
+Leitung Strategie,63500,75000,90300,111400,134500,95300,Business Planning Development,Lead,MV
+Leitung Strategie,69600,84100,103700,128000,154600,109500,Business Planning Development,Lead,NI
+Leitung Strategie,70900,85700,105700,130300,157400,111500,Business Planning Development,Lead,NW
+Leitung Strategie,69100,83400,102900,126900,153300,108600,Business Planning Development,Lead,RP
+Leitung Strategie,67500,81500,100500,124000,149800,106100,Business Planning Development,Lead,SL
+Leitung Strategie,63200,74200,88800,109500,132300,93700,Business Planning Development,Lead,SN
+Leitung Strategie,63700,75500,91100,112400,135800,96200,Business Planning Development,Lead,ST
+Leitung Strategie,69000,83300,102800,126800,153100,108500,Business Planning Development,Lead,SH
+Leitung Strategie,64300,77300,94700,116800,141100,99900,Business Planning Development,Lead,TH
+Expert Expansion,55600,66400,80800,98300,117300,84700,Business Planning Development,Senior,
+Expert Expansion,57700,67700,80700,96300,112900,83900,Business Planning Development,Senior,RP
+Expert Expansion,55600,62600,71500,85300,100000,74300,Business Planning Development,Senior,ST
+Expert Expansion,55600,62600,71500,85300,100000,74300,Business Planning Development,Senior,MV
+Expert Expansion,56000,65700,78400,93500,109600,81400,Business Planning Development,Senior,HB
+Expert Expansion,60200,70500,84200,100400,117800,87400,Business Planning Development,Senior,BY
+Expert Expansion,55600,66400,80800,98300,117300,84700,Business Planning Development,Senior,
+Expert Expansion,46700,55500,67300,81500,97000,70400,Business Planning Development,Mid,
+Expert Expansion,48900,57100,67900,80700,94400,70400,Business Planning Development,Mid,BW
+Expert Expansion,50500,59000,70100,83300,97400,72700,Business Planning Development,Mid,BY
+Expert Expansion,47100,55100,65500,77900,91000,67900,Business Planning Development,Mid,BE
+Expert Expansion,45900,52600,61100,72600,84900,63400,Business Planning Development,Mid,BB
+Expert Expansion,47000,54900,65300,77600,90700,67700,Business Planning Development,Mid,HB
+Expert Expansion,49700,58000,69000,82000,95900,71600,Business Planning Development,Mid,HH
+Expert Expansion,49500,57800,68700,81700,95500,71300,Business Planning Development,Mid,HE
+Expert Expansion,45700,51900,59700,71000,82900,61900,Business Planning Development,Mid,MV
+Expert Expansion,48900,57100,67900,80800,94400,70400,Business Planning Development,Mid,NI
+Expert Expansion,46700,55500,67300,81500,97000,70400,Business Planning Development,Mid,
+Expert Expansion,40300,47600,57400,69100,81700,59800,Business Planning Development,Junior,
+Expert Expansion,42800,49800,58900,69600,81000,60900,Business Planning Development,Junior,NW
+Expert Expansion,41600,48300,57200,67600,78600,59200,Business Planning Development,Junior,RP
+Expert Expansion,40800,47400,56100,66300,77200,58100,Business Planning Development,Junior,SL
+Expert Expansion,40100,44300,49500,58600,68100,51300,Business Planning Development,Junior,SN
+Expert Expansion,40100,44800,50700,59900,69700,52500,Business Planning Development,Junior,ST
+Expert Expansion,42000,48800,57700,68300,79400,59800,Business Planning Development,Junior,SH
+Expert Expansion,40200,45700,52800,62400,72500,54600,Business Planning Development,Junior,TH
+Spezialist Digitalisierung,48900,59600,72500,88200,105200,76000,Business Planning Development,Senior,
+Spezialist Digitalisierung,53100,63300,75500,90100,105600,78400,Business Planning Development,Senior,BY
+Spezialist Digitalisierung,49500,58900,70300,83900,98300,73000,Business Planning Development,Senior,HB
+Spezialist Digitalisierung,48600,55700,64100,76500,89700,66600,Business Planning Development,Senior,MV
+Spezialist Digitalisierung,51000,60700,72400,86400,101300,75200,Business Planning Development,Senior,RP
+Spezialist Digitalisierung,48600,55700,64100,76500,89700,66600,Business Planning Development,Senior,ST
+Spezialist Digitalisierung,49700,59100,70600,84200,98700,73300,Business Planning Development,Senior,BE
+Spezialist Digitalisierung,48600,55100,62800,75000,87900,65300,Business Planning Development,Senior,SN
+Spezialist Digitalisierung,48900,59600,72500,88200,105200,76000,Business Planning Development,Senior,
+Spezialist Digitalisierung,40500,49100,60000,72700,86400,62700,Business Planning Development,Mid,
+Spezialist Digitalisierung,42500,50600,60500,72000,84100,62800,Business Planning Development,Mid,BW
+Spezialist Digitalisierung,39700,46400,54500,64700,75700,56500,Business Planning Development,Mid,BB
+Spezialist Digitalisierung,43300,51500,61600,73200,85600,63900,Business Planning Development,Mid,NW
+Spezialist Digitalisierung,43000,51200,61300,72800,85100,63500,Business Planning Development,Mid,HE
+Spezialist Digitalisierung,39300,45100,51900,61700,72100,53900,Business Planning Development,Mid,SN
+Spezialist Digitalisierung,43900,52200,62500,74300,86800,64800,Business Planning Development,Mid,BY
+Spezialist Digitalisierung,39800,46700,55000,65400,76400,57100,Business Planning Development,Mid,TH
+Spezialist Digitalisierung,40900,48600,58200,69200,80900,60400,Business Planning Development,Mid,HB
+Spezialist Digitalisierung,42500,50600,60500,72000,84100,62800,Business Planning Development,Mid,NI
+Spezialist Digitalisierung,40500,49100,60000,72700,86400,62700,Business Planning Development,Mid,
+Spezialist Digitalisierung,42500,50600,60500,72000,84100,62800,Business Planning Development,Mid,BW
+Spezialist Digitalisierung,39700,46400,54500,64700,75700,56500,Business Planning Development,Mid,BB
+Spezialist Digitalisierung,43300,51500,61600,73200,85600,63900,Business Planning Development,Mid,NW
+Spezialist Digitalisierung,43000,51200,61300,72800,85100,63500,Business Planning Development,Mid,HE
+Spezialist Digitalisierung,39300,45100,51900,61700,72100,53900,Business Planning Development,Mid,SN
+Spezialist Digitalisierung,43900,52200,62500,74300,86800,64800,Business Planning Development,Mid,BY
+Spezialist Digitalisierung,39800,46700,55000,65400,76400,57100,Business Planning Development,Mid,TH
+Spezialist Digitalisierung,40900,48600,58200,69200,80900,60400,Business Planning Development,Mid,HB
+Spezialist Digitalisierung,42500,50600,60500,72000,84100,62800,Business Planning Development,Mid,NI
+Spezialist Digitalisierung,37300,44100,52600,62200,72300,54400,Business Planning Development,Junior,NW
+Spezialist Digitalisierung,37200,43900,52400,62000,72000,54200,Business Planning Development,Junior,HE
+Spezialist Digitalisierung,34900,42100,51200,61700,73000,53400,Business Planning Development,Junior,
+Spezialist Digitalisierung,40500,49100,60000,72700,86400,62700,Business Planning Development,Mid,
+Spezialist Digitalisierung,41300,49100,58700,69800,81600,60900,Business Planning Development,Mid,SL
+Spezialist Digitalisierung,34900,42100,51200,61700,73000,53400,Business Planning Development,Junior,
+Spezialist Digitalisierung,35400,41900,49900,59000,68600,51600,Business Planning Development,Junior,BE
+Spezialist Digitalisierung,37200,44000,52500,62000,72200,54300,Business Planning Development,Junior,HH
+Spezialist Digitalisierung,36700,43400,51700,61100,71100,53500,Business Planning Development,Junior,NI
+Spezialist Digitalisierung,35500,42000,50100,59300,68900,51900,Business Planning Development,Junior,SL
+Spezialist Digitalisierung,36600,43300,51600,61000,70900,53400,Business Planning Development,Junior,SH
+Spezialist Digitalisierung,34700,39500,45300,53500,62300,46900,Business Planning Development,Junior,ST
+Spezialist Digitalisierung,36200,42800,51100,60400,70200,52800,Business Planning Development,Junior,RP
+Außendienstmitarbeiter Vertrieb,44200,52700,64100,78100,93100,67200,Sales Operation Distribution,Senior,
+Außendienstmitarbeiter Vertrieb,46200,54200,64700,77200,90500,67200,Sales Operation Distribution,Senior,BW
+Außendienstmitarbeiter Vertrieb,47800,56000,66800,79700,93500,69400,Sales Operation Distribution,Senior,BY
+Außendienstmitarbeiter Vertrieb,44700,52300,62500,74500,87400,64900,Sales Operation Distribution,Senior,BE
+Außendienstmitarbeiter Vertrieb,44000,50300,58400,69700,81700,60700,Sales Operation Distribution,Senior,BB
+Außendienstmitarbeiter Vertrieb,44500,52100,62200,74200,87000,64600,Sales Operation Distribution,Senior,HB
+Außendienstmitarbeiter Vertrieb,47100,55200,65900,78600,92100,68400,Sales Operation Distribution,Senior,HH
+Außendienstmitarbeiter Vertrieb,46800,54900,65500,78200,91700,68100,Sales Operation Distribution,Senior,HE
+Außendienstmitarbeiter Vertrieb,44000,49600,56800,67700,79400,59000,Sales Operation Distribution,Senior,MV
+Außendienstmitarbeiter Vertrieb,44200,52700,64100,78100,93100,67200,Sales Operation Distribution,Senior,
+Außendienstmitarbeiter Vertrieb,39000,46400,56200,68100,81000,58800,Sales Operation Distribution,Mid,
+Außendienstmitarbeiter Vertrieb,37200,42700,49900,59300,69300,51700,Sales Operation Distribution,Mid,MV
+Außendienstmitarbeiter Vertrieb,40800,47700,56700,67400,78800,58800,Sales Operation Distribution,Mid,NI
+Außendienstmitarbeiter Vertrieb,39000,46400,56200,68100,81000,58800,Sales Operation Distribution,Mid,
+Außendienstmitarbeiter Vertrieb,41500,48500,57700,68600,80200,59900,Sales Operation Distribution,Mid,NW
+Außendienstmitarbeiter Vertrieb,40400,47200,56100,66700,77900,58200,Sales Operation Distribution,Mid,RP
+Außendienstmitarbeiter Vertrieb,39600,46300,55000,65400,76400,57000,Sales Operation Distribution,Mid,SL
+Außendienstmitarbeiter Vertrieb,36800,42000,48600,57800,67600,50500,Sales Operation Distribution,Mid,SN
+Außendienstmitarbeiter Vertrieb,39000,46400,56200,68100,81000,58800,Sales Operation Distribution,Mid,
+Außendienstmitarbeiter Vertrieb,30100,35600,42900,51700,61100,44800,Sales Operation Distribution,Junior,
+Außendienstmitarbeiter Vertrieb,28400,32500,37900,44800,52100,39200,Sales Operation Distribution,Junior,ST
+Außendienstmitarbeiter Vertrieb,31400,36500,43200,51100,59400,44700,Sales Operation Distribution,Junior,SH
+Außendienstmitarbeiter Vertrieb,28900,33500,39500,46700,54300,40800,Sales Operation Distribution,Junior,TH
+Außendienstmitarbeiter Vertrieb,31500,36600,43300,51200,59600,44800,Sales Operation Distribution,Junior,BW
+Außendienstmitarbeiter Vertrieb,32500,37800,44700,52800,61500,46200,Sales Operation Distribution,Junior,BY
+Außendienstmitarbeiter Vertrieb,30400,35400,41800,49400,57500,43300,Sales Operation Distribution,Junior,BE
+Außendienstmitarbeiter Vertrieb,28800,33300,39100,46200,53700,40400,Sales Operation Distribution,Junior,BB
+Außendienstmitarbeiter Vertrieb,30100,35600,42900,51700,61100,44800,Sales Operation Distribution,Junior,
+Key-Account-Manager,53600,64000,77800,94700,113000,81600,Sales Operation Distribution,Senior,
+Key-Account-Manager,56800,66600,79500,94900,111200,82600,Sales Operation Distribution,Senior,HE
+Key-Account-Manager,52800,59900,68900,82200,96300,71500,Sales Operation Distribution,Senior,MV
+Key-Account-Manager,56200,65900,78700,93900,110100,81700,Sales Operation Distribution,Senior,NI
+Key-Account-Manager,54200,63500,75800,90400,106000,78700,Sales Operation Distribution,Senior,BE
+Key-Account-Manager,57100,67000,79900,95300,111800,83000,Sales Operation Distribution,Senior,HH
+Key-Account-Manager,53000,61000,71400,85200,99800,74100,Sales Operation Distribution,Senior,TH
+Key-Account-Manager,53600,64000,77800,94700,113000,81600,Sales Operation Distribution,Senior,
+Key-Account-Manager,48500,57600,69800,84600,100600,73100,Sales Operation Distribution,Mid,
+Key-Account-Manager,50400,58900,70000,83200,97300,72600,Sales Operation Distribution,Mid,SH
+Key-Account-Manager,49200,57500,68400,81300,95000,70900,Sales Operation Distribution,Mid,SL
+Key-Account-Manager,50700,59300,70500,83800,97900,73100,Sales Operation Distribution,Mid,NI
+Key-Account-Manager,51500,60200,71600,85100,99500,74300,Sales Operation Distribution,Mid,HH
+Key-Account-Manager,48900,57200,68000,80800,94500,70500,Sales Operation Distribution,Mid,BE
+Key-Account-Manager,46500,52700,60500,71900,84000,62700,Sales Operation Distribution,Mid,SN
+Key-Account-Manager,48500,57600,69800,84600,100600,73100,Sales Operation Distribution,Mid,
+Key-Account-Manager,38700,45800,55200,66400,78600,57500,Sales Operation Distribution,Junior,
+Key-Account-Manager,40500,47100,55700,65800,76500,57600,Sales Operation Distribution,Junior,BW
+Key-Account-Manager,41800,48600,57400,67900,79000,59400,Sales Operation Distribution,Junior,BY
+Key-Account-Manager,39100,45400,53700,63500,73900,55600,Sales Operation Distribution,Junior,BE
+Key-Account-Manager,38100,43400,50200,59400,69100,52000,Sales Operation Distribution,Junior,BB
+Key-Account-Manager,38900,45200,53400,63200,73500,55300,Sales Operation Distribution,Junior,HB
+Key-Account-Manager,41100,47800,56500,66800,77700,58500,Sales Operation Distribution,Junior,HH
+Key-Account-Manager,41200,47900,56600,67000,77900,58600,Sales Operation Distribution,Junior,NW
+Key-Account-Manager,38700,45800,55200,66400,78600,57500,Sales Operation Distribution,Junior,
+Leitung Vertrieb,64400,77800,96000,118600,143300,101400,Sales Operation Distribution,Lead,BW
+Leitung Vertrieb,67300,81300,100300,123800,149700,105900,Sales Operation Distribution,Lead,BY
+Leitung Vertrieb,62800,75900,93700,115600,139800,98900,Sales Operation Distribution,Lead,BE
+Leitung Vertrieb,60400,72300,88400,109100,131900,93300,Sales Operation Distribution,Lead,BB
+Leitung Vertrieb,63700,77000,95000,117200,141700,100300,Sales Operation Distribution,Lead,HB
+Leitung Vertrieb,66900,80800,99800,123200,148900,105300,Sales Operation Distribution,Lead,HH
+Leitung Vertrieb,66000,79700,98400,121500,146800,103900,Sales Operation Distribution,Lead,HE
+Leitung Vertrieb,59700,70500,84800,104700,126500,89500,Sales Operation Distribution,Lead,MV
+Leitung Vertrieb,65300,78900,97400,120300,145400,102900,Sales Operation Distribution,Lead,NI
+Leitung Vertrieb,66500,80400,99200,122500,148100,104800,Sales Operation Distribution,Lead,NW
+Leitung Vertrieb,64800,78300,96600,119300,144200,102000,Sales Operation Distribution,Lead,RP
+Leitung Vertrieb,63300,76500,94400,116500,140900,99700,Sales Operation Distribution,Lead,SL
+Leitung Vertrieb,59400,69800,83400,102900,124400,88000,Sales Operation Distribution,Lead,SN
+Leitung Vertrieb,59800,70900,85600,105700,127700,90400,Sales Operation Distribution,Lead,ST
+Leitung Vertrieb,64700,78200,96500,119200,144000,101900,Sales Operation Distribution,Lead,SH
+Leitung Vertrieb,60400,72600,88900,109800,132700,93900,Sales Operation Distribution,Lead,TH
+Leitung Marketing,64600,78000,96300,118800,143600,101600,Marketing,Lead,BW
+Leitung Marketing,67500,81500,100600,124100,150000,106200,Marketing,Lead,BY
+Leitung Marketing,63000,76100,93900,115900,140100,99100,Marketing,Lead,BE
+Leitung Marketing,59700,72000,88600,109400,132200,93600,Marketing,Lead,BB
+Leitung Marketing,63900,77200,95200,117500,142000,100500,Marketing,Lead,HB
+Leitung Marketing,67100,81100,100000,123400,149200,105600,Marketing,Lead,HH
+Leitung Marketing,66200,79900,98700,121800,147100,104100,Marketing,Lead,HE
+Leitung Marketing,58700,70000,85000,104900,126800,89700,Marketing,Lead,MV
+Leitung Marketing,65500,79200,97700,120600,145700,103100,Marketing,Lead,NI
+Leitung Marketing,66700,80600,99500,122800,148400,105000,Marketing,Lead,NW
+Leitung Marketing,65000,78500,96900,119600,144500,102300,Marketing,Lead,RP
+Leitung Marketing,63500,76700,94600,116800,141200,99900,Marketing,Lead,SL
+Leitung Marketing,58300,69100,83600,103200,124700,88300,Marketing,Lead,SN
+Leitung Marketing,58900,70400,85800,105900,128000,90600,Marketing,Lead,ST
+Leitung Marketing,64900,78400,96800,119400,144400,102200,Marketing,Lead,SH
+Leitung Marketing,59900,72300,89200,110100,133000,94100,Marketing,Lead,TH
+Marketing Analyst,47200,56300,68500,83400,99500,71800,Marketing,Senior,
+Marketing Analyst,47700,55900,66700,79600,93400,69300,Marketing,Senior,BE
+Marketing Analyst,50300,59000,70400,84000,98400,73100,Marketing,Senior,HH
+Marketing Analyst,49500,58100,69300,82700,96900,72000,Marketing,Senior,NI
+Marketing Analyst,48200,56500,67400,80500,94300,70100,Marketing,Senior,SL
+Marketing Analyst,49200,57700,68800,82100,96300,71500,Marketing,Senior,SH
+Marketing Analyst,51000,59800,71400,85200,99900,74200,Marketing,Senior,BY
+Marketing Analyst,45700,51800,59400,70900,83100,61700,Marketing,Senior,SN
+Marketing Analyst,47200,56300,68500,83400,99500,71800,Marketing,Senior,
+Marketing Analyst,39800,47300,57300,69500,82600,60000,Marketing,Mid,
+Marketing Analyst,43000,50200,59700,71000,83000,62000,Marketing,Mid,BY
+Marketing Analyst,40000,46800,55600,66100,77300,57700,Marketing,Mid,HB
+Marketing Analyst,38700,44100,50900,60500,70700,52800,Marketing,Mid,MV
+Marketing Analyst,41200,48100,57200,68000,79500,59400,Marketing,Mid,RP
+Marketing Analyst,38700,44000,50800,60300,70500,52600,Marketing,Mid,ST
+Marketing Analyst,42300,49400,58800,69900,81700,61000,Marketing,Mid,HH
+Marketing Analyst,41600,48700,57900,68800,80400,60000,Marketing,Mid,BW
+Marketing Analyst,39800,47300,57300,69500,82600,60000,Marketing,Mid,
+Marketing Analyst,32400,38600,46500,56000,66300,48500,Marketing,Junior,
+Marketing Analyst,34000,39700,46900,55500,64600,48600,Marketing,Junior,BW
+Marketing Analyst,32000,36500,42400,50100,58200,43800,Marketing,Junior,BB
+Marketing Analyst,34500,40200,47600,56300,65400,49200,Marketing,Junior,HE
+Marketing Analyst,34600,40400,47800,56500,65700,49400,Marketing,Junior,NW
+Marketing Analyst,31600,35400,40200,47500,55300,41600,Marketing,Junior,SN
+Marketing Analyst,33600,39200,46400,54800,63800,48000,Marketing,Junior,RP
+Marketing Analyst,32000,36700,42800,50600,58800,44300,Marketing,Junior,TH
+Marketing Analyst,33900,39600,46800,55400,64400,48500,Marketing,Junior,SH
+Spezialist Online Werbung,46300,55300,67300,81900,97700,70500,Marketing,Senior,
+Spezialist Online Werbung,48500,56900,67800,81000,94900,70500,Marketing,Senior,BW
+Spezialist Online Werbung,46800,54900,65500,78200,91700,68100,Marketing,Senior,BE
+Spezialist Online Werbung,50100,58700,70100,83600,98100,72800,Marketing,Senior,BY
+Spezialist Online Werbung,45400,52300,61300,73100,85700,63700,Marketing,Senior,BB
+Spezialist Online Werbung,46700,54700,65300,77900,91300,67800,Marketing,Senior,HB
+Spezialist Online Werbung,49400,57900,69100,82400,96600,71800,Marketing,Senior,HH
+Spezialist Online Werbung,45100,51400,59500,71100,83300,61900,Marketing,Senior,MV
+Spezialist Online Werbung,48300,56600,67600,80600,94500,70200,Marketing,Senior,SH
+Spezialist Online Werbung,46300,55300,67300,81900,97700,70500,Marketing,Senior,
+Spezialist Online Werbung,41700,48800,58000,69000,80600,60200,Marketing,Mid,HE
+Spezialist Online Werbung,39400,46900,56800,68800,81800,59400,Marketing,Mid,
+Spezialist Online Werbung,38400,43600,50400,59900,70000,52300,Marketing,Mid,MV
+Spezialist Online Werbung,41300,48200,57300,68200,79600,59500,Marketing,Mid,NI
+Spezialist Online Werbung,42000,49100,58300,69300,81000,60500,Marketing,Mid,NW
+Spezialist Online Werbung,40800,47700,56700,67400,78800,58800,Marketing,Mid,RP
+Spezialist Online Werbung,40000,46800,55600,66100,77200,57700,Marketing,Mid,SL
+Spezialist Online Werbung,39800,46500,55300,65700,76800,57300,Marketing,Mid,BE
+Spezialist Online Werbung,38600,44500,52100,61900,72400,54000,Marketing,Mid,TH
+Spezialist Online Werbung,39400,46900,56800,68800,81800,59400,Marketing,Mid,
+Spezialist Online Werbung,32600,38800,46700,56300,66500,48700,Marketing,Junior,
+Spezialist Online Werbung,31700,35500,40300,47700,55500,41700,Marketing,Junior,SN
+Spezialist Online Werbung,31900,36000,41300,48800,56700,42700,Marketing,Junior,ST
+Spezialist Online Werbung,34100,39700,47000,55600,64600,48600,Marketing,Junior,SH
+Spezialist Online Werbung,32200,36900,42900,50800,59100,44400,Marketing,Junior,TH
+Spezialist Online Werbung,34200,39800,47100,55700,64800,48800,Marketing,Junior,BW
+Spezialist Online Werbung,32900,38300,45200,53500,62200,46800,Marketing,Junior,HB
+Category Manager,56100,66900,81500,99100,118300,85400,Purchasing Procurement,Senior,
+Category Manager,55800,64100,74700,89100,104500,77600,Purchasing Procurement,Senior,TH
+Category Manager,60700,71100,84900,101300,118700,88200,Purchasing Procurement,Senior,BY
+Category Manager,58700,68800,82100,98000,114900,85300,Purchasing Procurement,Senior,BW
+Category Manager,58500,68600,81800,97600,114500,85000,Purchasing Procurement,Senior,SH
+Category Manager,56700,66500,79300,94700,111000,82400,Purchasing Procurement,Senior,BE
+Category Manager,55700,62900,72100,86000,100800,74900,Purchasing Procurement,Senior,ST
+Category Manager,55700,62300,70600,84300,98800,73400,Purchasing Procurement,Senior,SN
+Category Manager,55800,63900,74200,88500,103800,77100,Purchasing Procurement,Senior,BB
+Category Manager,59700,70000,83600,99700,116900,86800,Purchasing Procurement,Senior,NW
+Category Manager,58900,69000,82400,98300,115200,85600,Purchasing Procurement,Senior,NI
+Category Manager,45800,54500,66000,80000,95100,69100,Purchasing Procurement,Mid,
+Category Manager,48000,56000,66600,79200,92600,69100,Purchasing Procurement,Mid,NI
+Category Manager,45600,50700,57100,67900,79400,59300,Purchasing Procurement,Mid,SN
+Category Manager,45700,51900,59900,71200,83300,62200,Purchasing Procurement,Mid,BB
+Category Manager,46100,53900,64000,76100,89000,66400,Purchasing Procurement,Mid,HB
+Category Manager,48700,56900,67700,80500,94000,70200,Purchasing Procurement,Mid,HH
+Category Manager,46500,54300,64600,76800,89800,67000,Purchasing Procurement,Mid,SL
+Category Manager,47400,55400,65900,78300,91600,68300,Purchasing Procurement,Mid,RP
+Category Manager,48500,56700,67400,80100,93700,69900,Purchasing Procurement,Mid,HE
+Category Manager,48800,57000,67800,80600,94200,70300,Purchasing Procurement,Mid,NW
+Category Manager,45800,54500,66000,80000,95100,69100,Purchasing Procurement,Mid,
+Category Manager,37000,44300,53400,64300,76000,55700,Purchasing Procurement,Junior,
+Category Manager,39300,46100,54600,64500,75000,56500,Purchasing Procurement,Junior,HE
+Category Manager,39400,46200,54700,64600,75200,56600,Purchasing Procurement,Junior,HH
+Category Manager,38500,42500,47500,56200,65300,49200,Purchasing Procurement,Junior,MV
+Category Manager,38800,45500,53800,63700,74000,55700,Purchasing Procurement,Junior,NI
+Category Manager,39500,46300,54800,64800,75300,56700,Purchasing Procurement,Junior,NW
+Category Manager,38300,45000,53200,62900,73100,55000,Purchasing Procurement,Junior,RP
+Category Manager,37600,44100,52200,61700,71800,54000,Purchasing Procurement,Junior,SL
+Category Manager,37000,44300,53400,64300,76000,55700,Purchasing Procurement,Junior,
+Leitung Einkauf,61800,74700,92100,113700,137400,97200,Purchasing Procurement,Lead,BW
+Leitung Einkauf,60300,72800,89800,110900,134000,94800,Purchasing Procurement,Lead,BE
+Leitung Einkauf,64500,78000,96200,118700,143500,101600,Purchasing Procurement,Lead,BY
+Leitung Einkauf,57200,68900,84800,104600,126400,89500,Purchasing Procurement,Lead,BB
+Leitung Einkauf,61100,73800,91100,112400,135800,96100,Purchasing Procurement,Lead,HB
+Leitung Einkauf,64200,77500,95700,118100,142700,101000,Purchasing Procurement,Lead,HH
+Leitung Einkauf,63300,76500,94400,116500,140700,99600,Purchasing Procurement,Lead,HE
+Leitung Einkauf,56300,67000,81300,100300,121300,85800,Purchasing Procurement,Lead,MV
+Leitung Einkauf,62700,75700,93400,115300,139300,98600,Purchasing Procurement,Lead,NI
+Leitung Einkauf,63800,77100,95200,117500,141900,100500,Purchasing Procurement,Lead,NW
+Leitung Einkauf,62200,75100,92700,114400,138200,97800,Purchasing Procurement,Lead,RP
+Leitung Einkauf,60700,73400,90500,111700,135000,95600,Purchasing Procurement,Lead,SL
+Leitung Einkauf,55900,66200,80000,98700,119300,84400,Purchasing Procurement,Lead,SN
+Leitung Einkauf,56500,67400,82100,101300,122400,86700,Purchasing Procurement,Lead,ST
+Leitung Einkauf,62100,75000,92600,114200,138100,97700,Purchasing Procurement,Lead,SH
+Leitung Einkauf,57400,69300,85300,105300,127200,90000,Purchasing Procurement,Lead,TH
+Sachbearbeitung Einkauf,36600,42200,49200,57200,65600,50600,Purchasing Procurement,Junior,BW
+Sachbearbeitung Einkauf,37500,43300,50400,58600,67100,51800,Purchasing Procurement,Junior,BY
+Sachbearbeitung Einkauf,35000,40400,47100,54800,62800,48400,Purchasing Procurement,Junior,BE
+Sachbearbeitung Einkauf,34100,38400,43600,50700,58100,44800,Purchasing Procurement,Junior,BB
+Sachbearbeitung Einkauf,34800,40100,46700,54300,62200,48000,Purchasing Procurement,Junior,HB
+Sachbearbeitung Einkauf,36700,42500,49400,57500,65900,50800,Purchasing Procurement,Junior,HH
+Sachbearbeitung Einkauf,36800,42600,49600,57700,66100,51000,Purchasing Procurement,Junior,HE
+Sachbearbeitung Einkauf,34000,37800,42300,49200,56400,43500,Purchasing Procurement,Junior,MV
+Sachbearbeitung Einkauf,36300,41900,48800,56800,65100,50200,Purchasing Procurement,Junior,NI
+Sachbearbeitung Einkauf,37000,42800,49800,57900,66400,51200,Purchasing Procurement,Junior,NW
+Sachbearbeitung Einkauf,35900,41400,48300,56100,64300,49600,Purchasing Procurement,Junior,RP
+Sachbearbeitung Einkauf,35100,40600,47200,55000,63000,48600,Purchasing Procurement,Junior,SL
+Sachbearbeitung Einkauf,33900,37200,41200,47900,54900,42300,Purchasing Procurement,Junior,SN
+Sachbearbeitung Einkauf,34000,37600,42000,48800,56000,43200,Purchasing Procurement,Junior,ST
+Sachbearbeitung Einkauf,36100,41700,48500,56500,64700,49900,Purchasing Procurement,Junior,SH
+Sachbearbeitung Einkauf,34200,38700,44100,51300,58700,45300,Purchasing Procurement,Junior,TH
+Spezialist Einkauf,49500,59100,71900,87600,104500,75400,Purchasing Procurement,Senior,
+Spezialist Einkauf,50100,58700,70100,83600,98000,72800,Purchasing Procurement,Senior,BE
+Spezialist Einkauf,52800,61900,73900,88100,103300,76700,Purchasing Procurement,Senior,HH
+Spezialist Einkauf,50600,59300,70800,84500,99000,73600,Purchasing Procurement,Senior,SL
+Spezialist Einkauf,52000,61000,72700,86800,101800,75600,Purchasing Procurement,Senior,NI
+Spezialist Einkauf,51700,60600,72300,86200,101100,75100,Purchasing Procurement,Senior,SH
+Spezialist Einkauf,48500,55200,63600,75900,89000,66100,Purchasing Procurement,Senior,ST
+Spezialist Einkauf,48400,54600,62400,74400,87300,64800,Purchasing Procurement,Senior,SN
+Spezialist Einkauf,49500,59100,71900,87600,104500,75400,Purchasing Procurement,Senior,
+Spezialist Einkauf,41900,50300,61000,73900,87800,63800,Purchasing Procurement,Mid,
+Spezialist Einkauf,45400,53400,63500,75500,88200,65900,Purchasing Procurement,Mid,BY
+Spezialist Einkauf,42300,49700,59100,70300,82200,61400,Purchasing Procurement,Mid,HB
+Spezialist Einkauf,40500,46500,54100,64300,75200,56100,Purchasing Procurement,Mid,MV
+Spezialist Einkauf,43500,51200,60900,72400,84600,63100,Purchasing Procurement,Mid,RP
+Spezialist Einkauf,40500,46400,54000,64200,75000,56000,Purchasing Procurement,Mid,ST
+Spezialist Einkauf,41900,50300,61000,73900,87800,63800,Purchasing Procurement,Mid,
+Spezialist Einkauf,33200,40000,48500,58500,69200,50600,Purchasing Procurement,Junior,
+Spezialist Einkauf,34800,41200,49000,57900,67400,50700,Purchasing Procurement,Junior,BW
+Spezialist Einkauf,35900,42500,50600,59800,69500,52300,Purchasing Procurement,Junior,BY
+Spezialist Einkauf,33600,39700,47300,55900,65000,48900,Purchasing Procurement,Junior,BE
+Spezialist Einkauf,33000,38100,44200,52300,60800,45700,Purchasing Procurement,Junior,BB
+Spezialist Einkauf,33400,39500,47000,55600,64700,48700,Purchasing Procurement,Junior,HB
+Spezialist Einkauf,35300,41800,49700,58800,68400,51500,Purchasing Procurement,Junior,HH
+Spezialist Einkauf,35300,41700,49600,58700,68300,51400,Purchasing Procurement,Junior,HE
+Laborfachkraft,34800,40500,47600,55400,63500,49000,Research Development,all,BW
+Laborfachkraft,38900,45400,53500,62500,71900,55100,Research Development,Senior,BW
+Laborfachkraft,38900,45400,53500,62500,71900,55100,Research Development,Senior,BW
+Laborfachkraft,39900,46500,54900,64100,73700,56500,Research Development,Senior,BY
+Laborfachkraft,37300,43500,51300,59900,68900,52800,Research Development,Senior,BE
+Laborfachkraft,37300,42100,47600,55600,63900,49000,Research Development,Senior,BB
+Laborfachkraft,37100,43200,50800,59300,68200,52300,Research Development,Senior,HB
+Laborfachkraft,39100,45700,53800,62900,72300,55400,Research Development,Senior,HH
+Laborfachkraft,39100,45700,53800,62900,72300,55400,Research Development,Senior,HH
+Laborfachkraft,39300,45900,54100,63200,72700,55700,Research Development,Senior,HE
+Laborfachkraft,37500,41400,46000,53700,61700,47300,Research Development,Senior,MV
+Laborfachkraft,38600,45100,53200,62100,71400,54700,Research Development,Senior,NI
+Laborfachkraft,34300,40000,47000,54700,62800,48400,Research Development,Mid,NI
+Laborfachkraft,34900,40600,47800,55600,63800,49100,Research Development,Mid,HE
+Laborfachkraft,31700,35800,40600,47300,54200,41800,Research Development,Mid,MV
+Laborfachkraft,34300,40000,47000,54700,62800,48400,Research Development,Mid,NI
+Laborfachkraft,35100,40800,48000,55900,64100,49400,Research Development,Mid,NW
+Laborfachkraft,34000,39500,46500,54200,62100,47800,Research Development,Mid,RP
+Laborfachkraft,33300,38800,45600,53100,60900,46900,Research Development,Mid,SL
+Laborfachkraft,31500,35300,39700,46200,53000,40800,Research Development,Mid,SN
+Laborfachkraft,31700,35700,40500,47100,54000,41600,Research Development,Mid,ST
+Laborfachkraft,34100,39800,46800,54400,62400,48100,Research Development,Mid,SH
+Laborfachkraft,32100,36700,42400,49400,56700,43700,Research Development,Mid,TH
+Laborfachkraft,32900,38900,46600,55200,64300,48300,Research Development,Mid,
+Laborfachkraft,29300,34400,41100,48300,55900,42500,Research Development,Junior,
+Laborfachkraft,28100,31200,35000,40500,46200,35900,Research Development,Junior,SN
+Laborfachkraft,28300,31600,35600,41200,46900,36500,Research Development,Junior,ST
+Laborfachkraft,30300,35100,41100,47600,54300,42200,Research Development,Junior,SH
+Laborfachkraft,28600,32500,37400,43300,49400,38400,Research Development,Junior,TH
+Laborfachkraft,30800,35700,41800,48400,55200,42900,Research Development,Junior,BW
+Laborfachkraft,31600,36500,42800,49600,56500,44000,Research Development,Junior,BY
+Laborfachkraft,29500,34100,40000,46300,52800,41100,Research Development,Junior,BE
+Laborfachkraft,28500,32300,36900,42700,48700,37900,Research Development,Junior,BB
+Laborfachkraft,29300,34400,41100,48300,55900,42500,Research Development,Junior,
+Leitung Forschung und Entwicklung,68600,82800,102200,126100,152400,107900,Research Development,Lead,BY
+Leitung Forschung und Entwicklung,65600,79300,97800,120800,145900,103300,Research Development,Lead,BW
+Leitung Forschung und Entwicklung,64000,77300,95400,117800,142300,100700,Research Development,Lead,BE
+Leitung Forschung und Entwicklung,61800,73900,90100,111100,134300,95100,Research Development,Lead,BB
+Leitung Forschung und Entwicklung,64900,78400,96800,119400,144300,102100,Research Development,Lead,HB
+Leitung Forschung und Entwicklung,68200,82400,101600,125400,151600,107300,Research Development,Lead,HH
+Leitung Forschung und Entwicklung,67200,81200,100200,123700,149500,105800,Research Development,Lead,HE
+Leitung Forschung und Entwicklung,61200,72100,86400,106600,128800,91200,Research Development,Lead,MV
+Leitung Forschung und Entwicklung,66600,80400,99300,122500,148000,104800,Research Development,Lead,NI
+Leitung Forschung und Entwicklung,67800,81900,101100,124800,150800,106700,Research Development,Lead,NW
+Leitung Forschung und Entwicklung,66000,79800,98400,121500,146800,103900,Research Development,Lead,RP
+Leitung Forschung und Entwicklung,64500,77900,96200,118700,143500,101500,Research Development,Lead,SL
+Leitung Forschung und Entwicklung,61000,71400,85000,104800,126700,89700,Research Development,Lead,SN
+Leitung Forschung und Entwicklung,61400,72500,87200,107600,130100,92100,Research Development,Lead,ST
+Leitung Forschung und Entwicklung,66000,79700,98300,121400,146700,103800,Research Development,Lead,SH
+Leitung Forschung und Entwicklung,61900,74100,90600,111800,135100,95700,Research Development,Lead,TH
+Sachbearbeitung Forschung und Entwicklung,37000,43000,50600,58900,67500,52100,Research Development,Junior,BW
+Sachbearbeitung Forschung und Entwicklung,37900,44100,51900,60100,68700,53300,Research Development,Junior,BY
+Sachbearbeitung Forschung und Entwicklung,35400,41200,48500,56400,64600,49800,Research Development,Junior,BE
+Sachbearbeitung Forschung und Entwicklung,34800,39300,44800,52200,59800,46100,Research Development,Junior,BB
+Sachbearbeitung Forschung und Entwicklung,35300,40900,48000,55900,64000,49400,Research Development,Junior,HB
+Sachbearbeitung Forschung und Entwicklung,37100,43200,50900,59200,67800,52300,Research Development,Junior,HH
+Sachbearbeitung Forschung und Entwicklung,37300,43300,51000,59400,68000,52500,Research Development,Junior,HE
+Sachbearbeitung Forschung und Entwicklung,34900,38800,43600,50700,58100,44800,Research Development,Junior,MV
+Sachbearbeitung Forschung und Entwicklung,36700,42700,50200,58400,67000,51700,Research Development,Junior,NI
+Sachbearbeitung Forschung und Entwicklung,37400,43500,51300,59600,68300,52700,Research Development,Junior,NW
+Sachbearbeitung Forschung und Entwicklung,36300,42200,49700,57800,66200,51100,Research Development,Junior,RP
+Sachbearbeitung Forschung und Entwicklung,35500,41300,48600,56600,64800,50000,Research Development,Junior,SL
+Sachbearbeitung Forschung und Entwicklung,34800,38300,42400,49300,56500,43600,Research Development,Junior,SN
+Sachbearbeitung Forschung und Entwicklung,34800,38600,43200,50300,57600,44400,Research Development,Junior,ST
+Sachbearbeitung Forschung und Entwicklung,36500,42400,50000,58100,66600,51400,Research Development,Junior,SH
+Sachbearbeitung Forschung und Entwicklung,34900,39600,45300,52800,60500,46600,Research Development,Junior,TH
+Spezialist Forschung und Entwicklung,48400,57800,70300,85600,102100,73700,Research Development,Senior,
+Spezialist Forschung und Entwicklung,47400,54900,64500,77000,90200,67000,Research Development,Senior,TH
+Spezialist Forschung und Entwicklung,50500,59200,70600,84300,98800,73400,Research Development,Senior,SH
+Spezialist Forschung und Entwicklung,47000,53700,62200,74200,87000,64600,Research Development,Senior,ST
+Spezialist Forschung und Entwicklung,46800,53100,61000,72800,85300,63400,Research Development,Senior,SN
+Spezialist Forschung und Entwicklung,49500,58000,69200,82600,96800,71900,Research Development,Senior,SL
+Spezialist Forschung und Entwicklung,50200,58900,70300,83800,98300,73000,Research Development,Senior,RP
+Spezialist Forschung und Entwicklung,51600,60500,72100,86100,100900,74900,Research Development,Senior,NW
+Spezialist Forschung und Entwicklung,48400,57800,70300,85600,102100,73700,Research Development,Senior,
+Spezialist Forschung und Entwicklung,41100,49000,59400,72000,85600,62100,Research Development,Mid,
+Spezialist Forschung und Entwicklung,43900,51300,61000,72500,84700,63300,Research Development,Mid,NW
+Spezialist Forschung und Entwicklung,42700,49900,59300,70500,82400,61500,Research Development,Mid,RP
+Spezialist Forschung und Entwicklung,41800,48900,58100,69100,80800,60300,Research Development,Mid,SL
+Spezialist Forschung und Entwicklung,43200,50400,60000,71300,83300,62200,Research Development,Mid,NI
+Spezialist Forschung und Entwicklung,40400,45800,52700,62700,73200,54700,Research Development,Mid,MV
+Spezialist Forschung und Entwicklung,43700,51000,60700,72100,84300,62900,Research Development,Mid,HE
+Spezialist Forschung und Entwicklung,43800,51200,60900,72400,84600,63200,Research Development,Mid,HH
+Spezialist Forschung und Entwicklung,41500,48500,57600,68500,80100,59800,Research Development,Mid,HB
+Spezialist Forschung und Entwicklung,40500,46400,53900,64100,74900,55900,Research Development,Mid,BB
+Spezialist Forschung und Entwicklung,41100,49000,59400,72000,85600,62100,Research Development,Mid,
+Spezialist Forschung und Entwicklung,35600,42500,51200,61700,73000,53400,Research Development,Junior,
+Spezialist Forschung und Entwicklung,37900,44300,52400,62000,72100,54300,Research Development,Junior,HH
+Spezialist Forschung und Entwicklung,36100,42100,49600,58700,68200,51300,Research Development,Junior,HB
+Spezialist Forschung und Entwicklung,36100,42200,49900,59000,68600,51600,Research Development,Junior,BE
+Spezialist Forschung und Entwicklung,37000,41300,46600,55100,64100,48300,Research Development,Junior,BB
+Spezialist Forschung und Entwicklung,38600,45100,53300,63100,73300,55200,Research Development,Junior,BY
+Spezialist Forschung und Entwicklung,37400,43700,51700,61100,71100,53500,Research Development,Junior,BW
+Spezialist Forschung und Entwicklung,36800,41400,47100,55700,64800,48700,Research Development,Junior,TH
+Spezialist Forschung und Entwicklung,37300,43600,51600,61000,70900,53400,Research Development,Junior,SH
+Konstruktionsingenieur,53100,64000,77900,94700,113100,81600,Construction,Senior,
+Konstruktionsingenieur,53900,63500,75800,90500,106100,78800,Construction,Senior,BE
+Konstruktionsingenieur,55900,66000,78700,93900,110100,81800,Construction,Senior,NI
+Konstruktionsingenieur,56800,67000,79900,95400,111800,83000,Construction,Senior,HH
+Konstruktionsingenieur,54400,64200,76600,91400,107200,79600,Construction,Senior,SL
+Konstruktionsingenieur,55600,65500,78200,93300,109400,81200,Construction,Senior,SH
+Konstruktionsingenieur,54900,62200,71400,85200,99900,74200,Construction,Senior,TH
+Konstruktionsingenieur,53700,63300,75500,90100,105600,78500,Construction,Senior,HB
+Konstruktionsingenieur,55000,62000,70900,84600,99200,73700,Construction,Senior,BB
+Konstruktionsingenieur,53100,64000,77900,94700,113100,81600,Construction,Senior,
+Konstruktionsingenieur,43700,52700,63900,77500,92100,66900,Construction,Mid,
+Konstruktionsingenieur,45900,54300,64500,76700,89600,66900,Construction,Mid,BW
+Konstruktionsingenieur,47400,56000,66600,79200,92500,69100,Construction,Mid,BY
+Konstruktionsingenieur,44300,52300,62200,74000,86400,64500,Construction,Mid,BE
+Konstruktionsingenieur,42900,49700,58000,69000,80600,60200,Construction,Mid,BB
+Konstruktionsingenieur,44100,52200,62000,73700,86200,64300,Construction,Mid,HB
+Konstruktionsingenieur,46600,55100,65500,77900,91100,68000,Construction,Mid,HH
+Konstruktionsingenieur,45900,54300,64500,76700,89600,66900,Construction,Mid,NI
+Konstruktionsingenieur,43700,52700,63900,77500,92100,66900,Construction,Mid,
+Konstruktionsingenieur,35300,42500,51600,62200,73500,53800,Construction,Junior,
+Konstruktionsingenieur,37500,44400,52800,62400,72600,54600,Construction,Junior,HE
+Konstruktionsingenieur,35800,40500,46000,54300,63200,47600,Construction,Junior,MV
+Konstruktionsingenieur,37000,43800,52100,61600,71600,53900,Construction,Junior,NI
+Konstruktionsingenieur,37700,44600,53000,62700,72900,54800,Construction,Junior,NW
+Konstruktionsingenieur,36600,43300,51400,60800,70700,53200,Construction,Junior,RP
+Konstruktionsingenieur,35900,42500,50500,59700,69400,52300,Construction,Junior,SL
+Konstruktionsingenieur,35300,42500,51600,62200,73500,53800,Construction,Junior,
+Technischer Produktdesigner,41100,45600,51000,57100,63100,51800,Construction,Mid,BW
+Technischer Produktdesigner,42000,46600,52200,58000,63800,52900,Construction,Mid,BY
+Technischer Produktdesigner,39100,43400,48600,54300,60100,49300,Construction,Mid,BE
+Technischer Produktdesigner,38600,41300,44700,50000,55300,45400,Construction,Mid,BB
+Technischer Produktdesigner,39100,43300,48400,54200,59900,49200,Construction,Mid,HB
+Technischer Produktdesigner,40900,45400,50800,56800,62800,51600,Construction,Mid,HH
+Technischer Produktdesigner,41400,46000,51400,57500,63600,52200,Construction,Mid,HE
+Technischer Produktdesigner,38400,40700,43500,48700,53900,44200,Construction,Mid,MV
+Technischer Produktdesigner,40600,45100,50400,56400,62400,51200,Construction,Mid,NI
+Technischer Produktdesigner,41500,46100,51500,57600,63700,52300,Construction,Mid,NW
+Technischer Produktdesigner,39900,44300,49600,55400,61300,50300,Construction,Mid,RP
+Technischer Produktdesigner,39300,43700,48800,54600,60400,49600,Construction,Mid,SL
+Technischer Produktdesigner,38000,39700,41700,46700,51600,42400,Construction,Mid,SN
+Technischer Produktdesigner,38300,40500,43100,48200,53300,43800,Construction,Mid,ST
+Technischer Produktdesigner,40300,44800,50100,56000,61900,50800,Construction,Mid,SH
+Technischer Produktdesigner,38700,41800,45500,50800,56200,46200,Construction,Mid,TH
+Leitung Projektmanagement,62900,75900,93600,115400,139300,98800,Project Management,Lead,BW
+Leitung Projektmanagement,65700,79300,97800,120500,145600,103200,Project Management,Lead,BY
+Leitung Projektmanagement,58300,70100,86200,106200,128300,90900,Project Management,Lead,BB
+Leitung Projektmanagement,62200,75100,92500,114100,137800,97600,Project Management,Lead,HB
+Leitung Projektmanagement,61300,74000,91300,112500,135900,96300,Project Management,Lead,BE
+Leitung Projektmanagement,65300,78800,97200,119900,144700,102600,Project Management,Lead,HH
+Leitung Projektmanagement,64400,77800,95900,118200,142700,101200,Project Management,Lead,HE
+Leitung Projektmanagement,57100,68000,82600,101900,123000,87200,Project Management,Lead,MV
+Leitung Projektmanagement,63800,77000,94900,117100,141300,100200,Project Management,Lead,NI
+Leitung Projektmanagement,65000,78400,96700,119200,144000,102000,Project Management,Lead,NW
+Leitung Projektmanagement,63300,76400,94100,116100,140200,99300,Project Management,Lead,RP
+Leitung Projektmanagement,61800,74600,92000,113400,136900,97000,Project Management,Lead,SL
+Leitung Projektmanagement,56700,67200,81300,100200,121000,85700,Project Management,Lead,SN
+Leitung Projektmanagement,57300,68500,83400,102900,124200,88000,Project Management,Lead,ST
+Leitung Projektmanagement,63200,76300,94100,116000,140000,99200,Project Management,Lead,SH
+Leitung Projektmanagement,58400,70400,86700,106800,129000,91400,Project Management,Lead,TH
+Projektleitung,57200,68200,83000,101000,120500,87000,Project Management,Senior,
+Projektleitung,61800,72500,86500,103200,121000,89800,Project Management,Senior,BY
+Projektleitung,57500,67500,80500,96100,112600,83600,Project Management,Senior,HB
+Projektleitung,56600,64000,73500,87600,102800,76300,Project Management,Senior,MV
+Projektleitung,59300,69500,82900,99000,116000,86200,Project Management,Senior,RP
+Projektleitung,56600,64000,73400,87600,102700,76300,Project Management,Senior,ST
+Projektleitung,60900,71300,85100,101600,119100,88400,Project Management,Senior,NW
+Projektleitung,60900,71400,85200,101700,119200,88500,Project Management,Senior,HH
+Projektleitung,57200,68200,83000,101000,120500,87000,Project Management,Senior,
+Projektleitung,49500,58900,71400,86500,102900,74700,Project Management,Mid,
+Projektleitung,51900,60600,72000,85700,100100,74700,Project Management,Mid,BW
+Projektleitung,48900,55900,64800,77000,90000,67200,Project Management,Mid,BB
+Projektleitung,52500,61300,72900,86700,101300,75600,Project Management,Mid,HE
+Projektleitung,48500,54400,61800,73500,85800,64100,Project Management,Mid,SN
+Projektleitung,52800,61600,73300,87100,101800,76000,Project Management,Mid,NW
+Projektleitung,48900,56200,65500,77800,90900,67900,Project Management,Mid,TH
+Projektleitung,48700,55100,63200,75100,87800,65500,Project Management,Mid,ST
+Projektleitung,50300,58800,69900,83100,97100,72500,Project Management,Mid,SL
+Projektleitung,49500,58900,71400,86500,102900,74700,Project Management,Mid,
+Projektleitung,44900,53100,63900,77000,91100,66700,Project Management,Junior,
+Projektleitung,45300,52700,62300,73600,85600,64400,Project Management,Junior,BE
+Projektleitung,47600,55400,65500,77400,90000,67800,Project Management,Junior,HH
+Projektleitung,46900,54500,64500,76300,88700,66800,Project Management,Junior,NI
+Projektleitung,45500,52900,62500,73900,86000,64700,Project Management,Junior,SL
+Projektleitung,48400,56300,66600,78700,91500,68900,Project Management,Junior,BY
+Projektleitung,47700,55500,65600,77600,90300,67900,Project Management,Junior,NW
+Projektleitung,46800,54400,64400,76100,88500,66600,Project Management,Junior,SH
+Gehaltsbuchhalter,41500,50500,61900,75300,89800,64900,Human Ressources,Senior,
+Gehaltsbuchhalter,43600,52000,62400,74400,87300,64800,Human Ressources,Senior,BW
+Gehaltsbuchhalter,45000,53700,64500,76900,90200,67000,Human Ressources,Senior,BY
+Gehaltsbuchhalter,42100,50200,60300,71900,84300,62600,Human Ressources,Senior,BE
+Gehaltsbuchhalter,44400,53000,63500,75800,88900,66000,Human Ressources,Senior,HH
+Gehaltsbuchhalter,43400,51800,62100,74200,86900,64600,Human Ressources,Senior,SH
+Gehaltsbuchhalter,42500,50800,60900,72700,85200,63300,Human Ressources,Senior,SL
+Gehaltsbuchhalter,43700,52200,62600,74700,87500,65000,Human Ressources,Senior,NI
+Gehaltsbuchhalter,41000,47300,54700,65300,76600,56900,Human Ressources,Senior,ST
+Gehaltsbuchhalter,40900,46800,53700,64000,75100,55700,Human Ressources,Senior,SN
+Gehaltsbuchhalter,44300,52900,63500,75700,88800,65900,Human Ressources,Senior,NW
+Gehaltsbuchhalter,41500,50500,61900,75300,89800,64900,Human Ressources,Senior,
+Gehaltsbuchhalter,37600,45500,55700,67500,80300,58300,Human Ressources,Mid,
+Gehaltsbuchhalter,39500,47000,56200,66800,78100,58300,Human Ressources,Mid,BW
+Gehaltsbuchhalter,36800,43000,50600,60100,70200,52400,Human Ressources,Mid,BB
+Gehaltsbuchhalter,40000,47500,56900,67600,79000,59000,Human Ressources,Mid,HE
+Gehaltsbuchhalter,40200,47800,57200,68000,79500,59300,Human Ressources,Mid,NW
+Gehaltsbuchhalter,36400,41900,48200,57300,67000,50000,Human Ressources,Mid,SN
+Gehaltsbuchhalter,36900,43300,51100,60700,71000,53000,Human Ressources,Mid,TH
+Gehaltsbuchhalter,36600,42400,49300,58600,68500,51100,Human Ressources,Mid,ST
+Gehaltsbuchhalter,39200,46600,55800,66400,77600,57900,Human Ressources,Mid,SH
+Gehaltsbuchhalter,37600,45500,55700,67500,80300,58300,Human Ressources,Mid,
+Gehaltsbuchhalter,34000,40200,48000,56600,65700,49600,Human Ressources,Junior,BY
+Gehaltsbuchhalter,31400,37800,46100,55500,65600,48000,Human Ressources,Junior,
+Gehaltsbuchhalter,31700,37400,44600,52800,61400,46200,Human Ressources,Junior,HB
+Gehaltsbuchhalter,31500,35900,41000,48500,56400,42400,Human Ressources,Junior,MV
+Gehaltsbuchhalter,32600,38500,45900,54300,63100,47500,Human Ressources,Junior,RP
+Gehaltsbuchhalter,31500,35800,40700,48100,56000,42100,Human Ressources,Junior,ST
+Gehaltsbuchhalter,33000,39000,46500,55000,63900,48100,Human Ressources,Junior,BW
+Gehaltsbuchhalter,31800,37600,44900,53100,61700,46400,Human Ressources,Junior,BE
+Gehaltsbuchhalter,31500,35400,39800,47000,54700,41200,Human Ressources,Junior,SN
+Gehaltsbuchhalter,32900,38900,46400,54800,63800,48000,Human Ressources,Junior,SH
+Gehaltsbuchhalter,31400,37800,46100,55500,65600,48000,Human Ressources,Junior,
+Leitung Personal,62600,75600,93300,115200,139200,98500,Human Ressources,Lead,BW
+Leitung Personal,65400,79000,97500,120300,145400,102900,Human Ressources,Lead,BY
+Leitung Personal,61000,73700,91000,112300,135800,96100,Human Ressources,Lead,BE
+Leitung Personal,58300,70100,85900,106000,128100,90700,Human Ressources,Lead,BB
+Leitung Personal,61900,74800,92300,113900,137700,97400,Human Ressources,Lead,HB
+Leitung Personal,65000,78500,96900,119600,144600,102300,Human Ressources,Lead,HH
+Leitung Personal,64100,77500,95600,118000,142600,100900,Human Ressources,Lead,HE
+Leitung Personal,57500,68200,82400,101700,122900,87000,Human Ressources,Lead,MV
+Leitung Personal,63500,76700,94700,116800,141200,99900,Human Ressources,Lead,NI
+Leitung Personal,64600,78100,96400,119000,143900,101800,Human Ressources,Lead,NW
+Leitung Personal,62900,76100,93900,115900,140100,99100,Human Ressources,Lead,RP
+Leitung Personal,61500,74300,91700,113200,136900,96800,Human Ressources,Lead,SL
+Leitung Personal,57200,67500,81000,100000,120900,85500,Human Ressources,Lead,SN
+Leitung Personal,57700,68600,83200,102700,124100,87800,Human Ressources,Lead,ST
+Leitung Personal,62900,76000,93800,115800,139900,99000,Human Ressources,Lead,SH
+Leitung Personal,58500,70400,86400,106700,128900,91200,Human Ressources,Lead,TH
+Leitung Personalverwaltung,58700,70900,87500,107900,130400,92300,Human Ressources,Lead,BW
+Leitung Personalverwaltung,61300,74100,91400,112800,136200,96500,Human Ressources,Lead,BY
+Leitung Personalverwaltung,57200,69200,85300,105300,127200,90100,Human Ressources,Lead,BE
+Leitung Personalverwaltung,55200,66000,80500,99400,120000,85000,Human Ressources,Lead,BB
+Leitung Personalverwaltung,58000,70100,86500,106700,128900,91300,Human Ressources,Lead,HB
+Leitung Personalverwaltung,61000,73700,90900,112100,135400,95900,Human Ressources,Lead,HH
+Leitung Personalverwaltung,60100,72700,89600,110600,133600,94600,Human Ressources,Lead,HE
+Leitung Personalverwaltung,54600,64400,77200,95300,115100,81500,Human Ressources,Lead,MV
+Leitung Personalverwaltung,59500,72000,88800,109500,132300,93700,Human Ressources,Lead,NI
+Leitung Personalverwaltung,60700,73300,90400,111500,134700,95400,Human Ressources,Lead,NW
+Leitung Personalverwaltung,59100,71400,88000,108600,131200,92900,Human Ressources,Lead,RP
+Leitung Personalverwaltung,57700,69700,86000,106100,128100,90800,Human Ressources,Lead,SL
+Leitung Personalverwaltung,54400,63700,76000,93700,113200,80200,Human Ressources,Lead,SN
+Leitung Personalverwaltung,54700,64700,78000,96200,116200,82300,Human Ressources,Lead,ST
+Leitung Personalverwaltung,59000,71300,87900,108500,131000,92800,Human Ressources,Lead,SH
+Leitung Personalverwaltung,55300,66200,81000,99900,120700,85500,Human Ressources,Lead,TH
+Sachbearbeitung Personalrekrutierung,34700,40200,46800,54500,62400,48200,Human Ressources,Junior,BW
+Sachbearbeitung Personalrekrutierung,35500,41200,48000,55800,64000,49300,Human Ressources,Junior,BY
+Sachbearbeitung Personalrekrutierung,33200,38500,44800,52100,59700,46100,Human Ressources,Junior,BE
+Sachbearbeitung Personalrekrutierung,32400,36600,41500,48200,55300,42600,Human Ressources,Junior,BB
+Sachbearbeitung Personalrekrutierung,32900,38100,44400,51700,59200,45700,Human Ressources,Junior,HB
+Sachbearbeitung Personalrekrutierung,34800,40400,47100,54700,62700,48400,Human Ressources,Junior,HH
+Sachbearbeitung Personalrekrutierung,34900,40500,47200,54900,62900,48500,Human Ressources,Junior,HE
+Sachbearbeitung Personalrekrutierung,32300,36000,40300,46900,53700,41400,Human Ressources,Junior,MV
+Sachbearbeitung Personalrekrutierung,34400,39900,46500,54000,61900,47800,Human Ressources,Junior,NI
+Sachbearbeitung Personalrekrutierung,35100,40700,47400,55200,63200,48800,Human Ressources,Junior,NW
+Sachbearbeitung Personalrekrutierung,34000,39400,45900,53400,61200,47200,Human Ressources,Junior,RP
+Sachbearbeitung Personalrekrutierung,33300,38600,45000,52300,59900,46200,Human Ressources,Junior,SL
+Sachbearbeitung Personalrekrutierung,32100,35400,39200,45600,52200,40300,Human Ressources,Junior,SN
+Sachbearbeitung Personalrekrutierung,32200,35800,40000,46500,53300,41100,Human Ressources,Junior,ST
+Sachbearbeitung Personalrekrutierung,34200,39700,46200,53700,61600,47500,Human Ressources,Junior,SH
+Sachbearbeitung Personalrekrutierung,32500,36800,41900,48800,55900,43100,Human Ressources,Junior,TH
