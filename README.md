@@ -50,8 +50,8 @@ Each part can be used independently from the tool given that a user provides pro
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/VizJobs-cli.git
-cd app
+git clone https://gitlab.gwdg.de/m.hussein/vizjobs.git
+cd vizjobs
 pip install -r requirements.txt
 ```
 **Tool Content:**
