@@ -426,4 +426,4 @@ MIT License. See `LICENSE` file.
 
 Developed by [Mohanad Hussein](https://gitlab.gwdg.de/m.hussein0), [Elisabeth Reger](https://gitlab.gwdg.de/elisabeth.reger) and [Nikola Kunze](https://gitlab.gwdg.de/nikola.kunze)
 
-Pull requests and suggestions welcome!
+Pull requests and suggestions are welcomed!
